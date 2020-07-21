@@ -1,0 +1,6563 @@
+{
+  "results": [
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Hello Andrew, thank you.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2107,
+                "nanos": 170000000.00007275
+              },
+              "endTime": {
+                "seconds": 2107,
+                "nanos": 730000000.0000182
+              },
+              "word": "Hello"
+            },
+            {
+              "startTime": {
+                "seconds": 2107,
+                "nanos": 730000000.0000182
+              },
+              "endTime": {
+                "seconds": 2108,
+                "nanos": 289999999.99996364
+              },
+              "word": "Andrew,"
+            },
+            {
+              "startTime": {
+                "seconds": 2108,
+                "nanos": 289999999.99996364
+              },
+              "endTime": {
+                "seconds": 2108,
+                "nanos": 849999999.999909
+              },
+              "word": "thank"
+            },
+            {
+              "startTime": {
+                "seconds": 2108,
+                "nanos": 849999999.999909
+              },
+              "endTime": {
+                "seconds": 2109,
+                "nanos": 409999999.9998545
+              },
+              "word": "you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Trying to make.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2110,
+                "nanos": 730000000.0000182
+              },
+              "endTime": {
+                "seconds": 2111,
+                "nanos": 646666666.6665332
+              },
+              "word": "Trying"
+            },
+            {
+              "startTime": {
+                "seconds": 2111,
+                "nanos": 646666666.6665332
+              },
+              "endTime": {
+                "seconds": 2112,
+                "nanos": 563333333.3330483
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2112,
+                "nanos": 563333333.3335031
+              },
+              "endTime": {
+                "seconds": 2113,
+                "nanos": 480000000.0000182
+              },
+              "word": "make."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "My stream schedule because I figure if I can make a cute little calendary kind of looking thing.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2114,
+                "nanos": 150000000.00009096
+              },
+              "endTime": {
+                "seconds": 2114,
+                "nanos": 593333333.3332485
+              },
+              "word": "My"
+            },
+            {
+              "startTime": {
+                "seconds": 2114,
+                "nanos": 593333333.3332485
+              },
+              "endTime": {
+                "seconds": 2115,
+                "nanos": 36666666.666405946
+              },
+              "word": "stream"
+            },
+            {
+              "startTime": {
+                "seconds": 2115,
+                "nanos": 36666666.66686069
+              },
+              "endTime": {
+                "seconds": 2115,
+                "nanos": 480000000.0000182
+              },
+              "word": "schedule"
+            },
+            {
+              "startTime": {
+                "seconds": 2115,
+                "nanos": 480000000.0000182
+              },
+              "endTime": {
+                "seconds": 2115,
+                "nanos": 923333333.3331757
+              },
+              "word": "because"
+            },
+            {
+              "startTime": {
+                "seconds": 2115,
+                "nanos": 923333333.3336304
+              },
+              "endTime": {
+                "seconds": 2116,
+                "nanos": 366666666.6667879
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2116,
+                "nanos": 366666666.6667879
+              },
+              "endTime": {
+                "seconds": 2116,
+                "nanos": 809999999.9999454
+              },
+              "word": "figure"
+            },
+            {
+              "startTime": {
+                "seconds": 2116,
+                "nanos": 809999999.9999454
+              },
+              "endTime": {
+                "seconds": 2117,
+                "nanos": 253333333.33310294
+              },
+              "word": "if"
+            },
+            {
+              "startTime": {
+                "seconds": 2117,
+                "nanos": 253333333.33355767
+              },
+              "endTime": {
+                "seconds": 2117,
+                "nanos": 696666666.6667151
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2117,
+                "nanos": 696666666.6667151
+              },
+              "endTime": {
+                "seconds": 2118,
+                "nanos": 139999999.99987268
+              },
+              "word": "can"
+            },
+            {
+              "startTime": {
+                "seconds": 2118,
+                "nanos": 140000000.0003274
+              },
+              "endTime": {
+                "seconds": 2118,
+                "nanos": 583333333.3334849
+              },
+              "word": "make"
+            },
+            {
+              "startTime": {
+                "seconds": 2118,
+                "nanos": 583333333.3334849
+              },
+              "endTime": {
+                "seconds": 2119,
+                "nanos": 26666666.666642413
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2119,
+                "nanos": 26666666.666642413
+              },
+              "endTime": {
+                "seconds": 2119,
+                "nanos": 469999999.9997999
+              },
+              "word": "cute"
+            },
+            {
+              "startTime": {
+                "seconds": 2119,
+                "nanos": 470000000.00025463
+              },
+              "endTime": {
+                "seconds": 2119,
+                "nanos": 913333333.3334122
+              },
+              "word": "little"
+            },
+            {
+              "startTime": {
+                "seconds": 2119,
+                "nanos": 913333333.3334122
+              },
+              "endTime": {
+                "seconds": 2120,
+                "nanos": 356666666.66656965
+              },
+              "word": "calendary"
+            },
+            {
+              "startTime": {
+                "seconds": 2120,
+                "nanos": 356666666.66656965
+              },
+              "endTime": {
+                "seconds": 2120,
+                "nanos": 799999999.9997271
+              },
+              "word": "kind"
+            },
+            {
+              "startTime": {
+                "seconds": 2120,
+                "nanos": 800000000.0001819
+              },
+              "endTime": {
+                "seconds": 2121,
+                "nanos": 243333333.3333394
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2121,
+                "nanos": 243333333.3333394
+              },
+              "endTime": {
+                "seconds": 2121,
+                "nanos": 686666666.6664969
+              },
+              "word": "looking"
+            },
+            {
+              "startTime": {
+                "seconds": 2121,
+                "nanos": 686666666.6669517
+              },
+              "endTime": {
+                "seconds": 2122,
+                "nanos": 130000000.00010914
+              },
+              "word": "thing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Um?",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2122,
+                "nanos": 860000000.0001273
+              },
+              "endTime": {
+                "seconds": 2122,
+                "nanos": 130000000.00010914
+              },
+              "word": "Um?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I will stick to it.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2125,
+                "nanos": 949999999.9998181
+              },
+              "endTime": {
+                "seconds": 2126,
+                "nanos": 283999999.9996508
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2126,
+                "nanos": 283999999.9996508
+              },
+              "endTime": {
+                "seconds": 2126,
+                "nanos": 617999999.9994835
+              },
+              "word": "will"
+            },
+            {
+              "startTime": {
+                "seconds": 2126,
+                "nanos": 617999999.9999381
+              },
+              "endTime": {
+                "seconds": 2126,
+                "nanos": 951999999.9997708
+              },
+              "word": "stick"
+            },
+            {
+              "startTime": {
+                "seconds": 2126,
+                "nanos": 951999999.9997708
+              },
+              "endTime": {
+                "seconds": 2127,
+                "nanos": 285999999.99960345
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2127,
+                "nanos": 286000000.00005823
+              },
+              "endTime": {
+                "seconds": 2127,
+                "nanos": 619999999.9998908
+              },
+              "word": "it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "That is the goal here.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2128,
+                "nanos": 869999999.9998908
+              },
+              "endTime": {
+                "seconds": 2129,
+                "nanos": 281999999.99969804
+              },
+              "word": "That"
+            },
+            {
+              "startTime": {
+                "seconds": 2129,
+                "nanos": 281999999.99969804
+              },
+              "endTime": {
+                "seconds": 2129,
+                "nanos": 693999999.9995053
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2129,
+                "nanos": 693999999.99996
+              },
+              "endTime": {
+                "seconds": 2130,
+                "nanos": 105999999.99976717
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2130,
+                "nanos": 105999999.99976717
+              },
+              "endTime": {
+                "seconds": 2130,
+                "nanos": 517999999.99957436
+              },
+              "word": "goal"
+            },
+            {
+              "startTime": {
+                "seconds": 2130,
+                "nanos": 518000000.0000291
+              },
+              "endTime": {
+                "seconds": 2130,
+                "nanos": 929999999.9998363
+              },
+              "word": "here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "So that's what we're doing right now.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2153,
+                "nanos": 460000000.00003636
+              },
+              "endTime": {
+                "seconds": 2153,
+                "nanos": 785714285.7142208
+              },
+              "word": "So"
+            },
+            {
+              "startTime": {
+                "seconds": 2153,
+                "nanos": 785714285.7142208
+              },
+              "endTime": {
+                "seconds": 2154,
+                "nanos": 111428571.42840512
+              },
+              "word": "that's"
+            },
+            {
+              "startTime": {
+                "seconds": 2154,
+                "nanos": 111428571.42840512
+              },
+              "endTime": {
+                "seconds": 2154,
+                "nanos": 437142857.1425895
+              },
+              "word": "what"
+            },
+            {
+              "startTime": {
+                "seconds": 2154,
+                "nanos": 437142857.1425895
+              },
+              "endTime": {
+                "seconds": 2154,
+                "nanos": 762857142.8567739
+              },
+              "word": "we're"
+            },
+            {
+              "startTime": {
+                "seconds": 2154,
+                "nanos": 762857142.8572286
+              },
+              "endTime": {
+                "seconds": 2155,
+                "nanos": 88571428.57141298
+              },
+              "word": "doing"
+            },
+            {
+              "startTime": {
+                "seconds": 2155,
+                "nanos": 88571428.57141298
+              },
+              "endTime": {
+                "seconds": 2155,
+                "nanos": 414285714.2855973
+              },
+              "word": "right"
+            },
+            {
+              "startTime": {
+                "seconds": 2155,
+                "nanos": 414285714.2855973
+              },
+              "endTime": {
+                "seconds": 2155,
+                "nanos": 739999999.9997817
+              },
+              "word": "now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I don't know how long tonight stream is going to go.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2156,
+                "nanos": 199999999.9998181
+              },
+              "endTime": {
+                "seconds": 2156,
+                "nanos": 434545454.5450593
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2156,
+                "nanos": 434545454.5450593
+              },
+              "endTime": {
+                "seconds": 2156,
+                "nanos": 669090909.0903006
+              },
+              "word": "don't"
+            },
+            {
+              "startTime": {
+                "seconds": 2156,
+                "nanos": 669090909.0907553
+              },
+              "endTime": {
+                "seconds": 2156,
+                "nanos": 903636363.6359966
+              },
+              "word": "know"
+            },
+            {
+              "startTime": {
+                "seconds": 2156,
+                "nanos": 903636363.6359966
+              },
+              "endTime": {
+                "seconds": 2157,
+                "nanos": 138181818.18123776
+              },
+              "word": "how"
+            },
+            {
+              "startTime": {
+                "seconds": 2157,
+                "nanos": 138181818.1816925
+              },
+              "endTime": {
+                "seconds": 2157,
+                "nanos": 372727272.7269337
+              },
+              "word": "long"
+            },
+            {
+              "startTime": {
+                "seconds": 2157,
+                "nanos": 372727272.7269337
+              },
+              "endTime": {
+                "seconds": 2157,
+                "nanos": 607272727.272175
+              },
+              "word": "tonight"
+            },
+            {
+              "startTime": {
+                "seconds": 2157,
+                "nanos": 607272727.2726297
+              },
+              "endTime": {
+                "seconds": 2157,
+                "nanos": 841818181.817871
+              },
+              "word": "stream"
+            },
+            {
+              "startTime": {
+                "seconds": 2157,
+                "nanos": 841818181.817871
+              },
+              "endTime": {
+                "seconds": 2158,
+                "nanos": 76363636.36311217
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2158,
+                "nanos": 76363636.3635669
+              },
+              "endTime": {
+                "seconds": 2158,
+                "nanos": 310909090.9088081
+              },
+              "word": "going"
+            },
+            {
+              "startTime": {
+                "seconds": 2158,
+                "nanos": 310909090.9088081
+              },
+              "endTime": {
+                "seconds": 2158,
+                "nanos": 545454545.4540493
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2158,
+                "nanos": 545454545.4545041
+              },
+              "endTime": {
+                "seconds": 2158,
+                "nanos": 779999999.9997454
+              },
+              "word": "go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "It's highly depending upon my tolerance of the fireworks that you guys hear exploding in the background.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2160,
+                "nanos": 219999999.9997999
+              },
+              "endTime": {
+                "seconds": 2160,
+                "nanos": 657647058.8233861
+              },
+              "word": "It's"
+            },
+            {
+              "startTime": {
+                "seconds": 2160,
+                "nanos": 657647058.8233861
+              },
+              "endTime": {
+                "seconds": 2161,
+                "nanos": 95294117.64697215
+              },
+              "word": "highly"
+            },
+            {
+              "startTime": {
+                "seconds": 2161,
+                "nanos": 95294117.64697215
+              },
+              "endTime": {
+                "seconds": 2161,
+                "nanos": 532941176.4705583
+              },
+              "word": "depending"
+            },
+            {
+              "startTime": {
+                "seconds": 2161,
+                "nanos": 532941176.4705583
+              },
+              "endTime": {
+                "seconds": 2161,
+                "nanos": 970588235.2941444
+              },
+              "word": "upon"
+            },
+            {
+              "startTime": {
+                "seconds": 2161,
+                "nanos": 970588235.2941444
+              },
+              "endTime": {
+                "seconds": 2162,
+                "nanos": 408235294.1177305
+              },
+              "word": "my"
+            },
+            {
+              "startTime": {
+                "seconds": 2162,
+                "nanos": 408235294.1172758
+              },
+              "endTime": {
+                "seconds": 2162,
+                "nanos": 845882352.9408619
+              },
+              "word": "tolerance"
+            },
+            {
+              "startTime": {
+                "seconds": 2162,
+                "nanos": 845882352.9408619
+              },
+              "endTime": {
+                "seconds": 2163,
+                "nanos": 283529411.764448
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2163,
+                "nanos": 283529411.764448
+              },
+              "endTime": {
+                "seconds": 2163,
+                "nanos": 721176470.5880342
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2163,
+                "nanos": 721176470.5880342
+              },
+              "endTime": {
+                "seconds": 2164,
+                "nanos": 158823529.41162026
+              },
+              "word": "fireworks"
+            },
+            {
+              "startTime": {
+                "seconds": 2164,
+                "nanos": 158823529.41162026
+              },
+              "endTime": {
+                "seconds": 2164,
+                "nanos": 596470588.2352064
+              },
+              "word": "that"
+            },
+            {
+              "startTime": {
+                "seconds": 2164,
+                "nanos": 596470588.2352064
+              },
+              "endTime": {
+                "seconds": 2165,
+                "nanos": 34117647.0587925
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2165,
+                "nanos": 34117647.0587925
+              },
+              "endTime": {
+                "seconds": 2165,
+                "nanos": 471764705.88237864
+              },
+              "word": "guys"
+            },
+            {
+              "startTime": {
+                "seconds": 2165,
+                "nanos": 471764705.88237864
+              },
+              "endTime": {
+                "seconds": 2165,
+                "nanos": 909411764.7059647
+              },
+              "word": "hear"
+            },
+            {
+              "startTime": {
+                "seconds": 2165,
+                "nanos": 909411764.70551
+              },
+              "endTime": {
+                "seconds": 2166,
+                "nanos": 347058823.5290961
+              },
+              "word": "exploding"
+            },
+            {
+              "startTime": {
+                "seconds": 2166,
+                "nanos": 347058823.5290961
+              },
+              "endTime": {
+                "seconds": 2166,
+                "nanos": 784705882.3526822
+              },
+              "word": "in"
+            },
+            {
+              "startTime": {
+                "seconds": 2166,
+                "nanos": 784705882.3526822
+              },
+              "endTime": {
+                "seconds": 2167,
+                "nanos": 222352941.17626837
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2167,
+                "nanos": 222352941.17626837
+              },
+              "endTime": {
+                "seconds": 2167,
+                "nanos": 659999999.9998544
+              },
+              "word": "background."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I am terrified of fireworks.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2169,
+                "nanos": 860000000.0001273
+              },
+              "endTime": {
+                "seconds": 2170,
+                "nanos": 211999999.9999891
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2170,
+                "nanos": 211999999.9999891
+              },
+              "endTime": {
+                "seconds": 2170,
+                "nanos": 563999999.9998509
+              },
+              "word": "am"
+            },
+            {
+              "startTime": {
+                "seconds": 2170,
+                "nanos": 563999999.9998509
+              },
+              "endTime": {
+                "seconds": 2170,
+                "nanos": 915999999.9997126
+              },
+              "word": "terrified"
+            },
+            {
+              "startTime": {
+                "seconds": 2170,
+                "nanos": 916000000.0001674
+              },
+              "endTime": {
+                "seconds": 2171,
+                "nanos": 268000000.00002912
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2171,
+                "nanos": 268000000.00002912
+              },
+              "endTime": {
+                "seconds": 2171,
+                "nanos": 619999999.9998908
+              },
+              "word": "fireworks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "And I'm just trying to look for a way to distract myself from said Espinoza Jones.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2175,
+                "nanos": 820000000.0001637
+              },
+              "endTime": {
+                "seconds": 2176,
+                "nanos": 298749999.9999272
+              },
+              "word": "And"
+            },
+            {
+              "startTime": {
+                "seconds": 2176,
+                "nanos": 298749999.9999272
+              },
+              "endTime": {
+                "seconds": 2176,
+                "nanos": 777500000.0001456
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2176,
+                "nanos": 777500000.0001456
+              },
+              "endTime": {
+                "seconds": 2177,
+                "nanos": 256250000.0003638
+              },
+              "word": "just"
+            },
+            {
+              "startTime": {
+                "seconds": 2177,
+                "nanos": 256250000.0003638
+              },
+              "endTime": {
+                "seconds": 2177,
+                "nanos": 735000000.0005821
+              },
+              "word": "trying"
+            },
+            {
+              "startTime": {
+                "seconds": 2177,
+                "nanos": 735000000.0001273
+              },
+              "endTime": {
+                "seconds": 2178,
+                "nanos": 213749999.99989086
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2178,
+                "nanos": 213749999.99989086
+              },
+              "endTime": {
+                "seconds": 2178,
+                "nanos": 692500000.0001092
+              },
+              "word": "look"
+            },
+            {
+              "startTime": {
+                "seconds": 2178,
+                "nanos": 692500000.0001092
+              },
+              "endTime": {
+                "seconds": 2179,
+                "nanos": 171250000.0003274
+              },
+              "word": "for"
+            },
+            {
+              "startTime": {
+                "seconds": 2179,
+                "nanos": 171250000.0003274
+              },
+              "endTime": {
+                "seconds": 2179,
+                "nanos": 650000000.0005457
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2179,
+                "nanos": 650000000.000091
+              },
+              "endTime": {
+                "seconds": 2180,
+                "nanos": 128749999.99985448
+              },
+              "word": "way"
+            },
+            {
+              "startTime": {
+                "seconds": 2180,
+                "nanos": 128749999.99985448
+              },
+              "endTime": {
+                "seconds": 2180,
+                "nanos": 607500000.0000727
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2180,
+                "nanos": 607500000.0000727
+              },
+              "endTime": {
+                "seconds": 2181,
+                "nanos": 86250000.00029103
+              },
+              "word": "distract"
+            },
+            {
+              "startTime": {
+                "seconds": 2181,
+                "nanos": 86250000.00029103
+              },
+              "endTime": {
+                "seconds": 2181,
+                "nanos": 565000000.0005093
+              },
+              "word": "myself"
+            },
+            {
+              "startTime": {
+                "seconds": 2181,
+                "nanos": 565000000.0000546
+              },
+              "endTime": {
+                "seconds": 2182,
+                "nanos": 43749999.9998181
+              },
+              "word": "from"
+            },
+            {
+              "startTime": {
+                "seconds": 2182,
+                "nanos": 43749999.9998181
+              },
+              "endTime": {
+                "seconds": 2182,
+                "nanos": 522500000.00003636
+              },
+              "word": "said"
+            },
+            {
+              "startTime": {
+                "seconds": 2182,
+                "nanos": 522500000.00003636
+              },
+              "endTime": {
+                "seconds": 2183,
+                "nanos": 1250000.0002546585
+              },
+              "word": "Espinoza"
+            },
+            {
+              "startTime": {
+                "seconds": 2183,
+                "nanos": 1250000.0002546585
+              },
+              "endTime": {
+                "seconds": 2183,
+                "nanos": 480000000.00047296
+              },
+              "word": "Jones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "And plus I personally don't.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2189,
+                "nanos": 39999999.99996362
+              },
+              "endTime": {
+                "seconds": 2189,
+                "nanos": 501999999.99995273
+              },
+              "word": "And"
+            },
+            {
+              "startTime": {
+                "seconds": 2189,
+                "nanos": 501999999.99995273
+              },
+              "endTime": {
+                "seconds": 2189,
+                "nanos": 963999999.9999418
+              },
+              "word": "plus"
+            },
+            {
+              "startTime": {
+                "seconds": 2189,
+                "nanos": 963999999.9999418
+              },
+              "endTime": {
+                "seconds": 2190,
+                "nanos": 425999999.99993086
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2190,
+                "nanos": 425999999.99993086
+              },
+              "endTime": {
+                "seconds": 2190,
+                "nanos": 887999999.99992
+              },
+              "word": "personally"
+            },
+            {
+              "startTime": {
+                "seconds": 2190,
+                "nanos": 887999999.99992
+              },
+              "endTime": {
+                "seconds": 2191,
+                "nanos": 349999999.99990904
+              },
+              "word": "don't."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I've never really been a fan of 4th of July, like when I was a kid.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2192,
+                "nanos": 829999999.9999273
+              },
+              "endTime": {
+                "seconds": 2193,
+                "nanos": 177499999.99978173
+              },
+              "word": "I've"
+            },
+            {
+              "startTime": {
+                "seconds": 2193,
+                "nanos": 177499999.99978173
+              },
+              "endTime": {
+                "seconds": 2193,
+                "nanos": 524999999.9996362
+              },
+              "word": "never"
+            },
+            {
+              "startTime": {
+                "seconds": 2193,
+                "nanos": 525000000.00009096
+              },
+              "endTime": {
+                "seconds": 2193,
+                "nanos": 872499999.9999454
+              },
+              "word": "really"
+            },
+            {
+              "startTime": {
+                "seconds": 2193,
+                "nanos": 872499999.9999454
+              },
+              "endTime": {
+                "seconds": 2194,
+                "nanos": 219999999.9997999
+              },
+              "word": "been"
+            },
+            {
+              "startTime": {
+                "seconds": 2194,
+                "nanos": 220000000.00025466
+              },
+              "endTime": {
+                "seconds": 2194,
+                "nanos": 567500000.0001092
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2194,
+                "nanos": 567500000.0001092
+              },
+              "endTime": {
+                "seconds": 2194,
+                "nanos": 914999999.9999636
+              },
+              "word": "fan"
+            },
+            {
+              "startTime": {
+                "seconds": 2194,
+                "nanos": 914999999.9999636
+              },
+              "endTime": {
+                "seconds": 2195,
+                "nanos": 262499999.9998181
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2195,
+                "nanos": 262500000.00027284
+              },
+              "endTime": {
+                "seconds": 2195,
+                "nanos": 610000000.0001273
+              },
+              "word": "4th"
+            },
+            {
+              "startTime": {
+                "seconds": 2195,
+                "nanos": 610000000.0001273
+              },
+              "endTime": {
+                "seconds": 2195,
+                "nanos": 957499999.9999818
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2195,
+                "nanos": 957499999.9999818
+              },
+              "endTime": {
+                "seconds": 2196,
+                "nanos": 304999999.99983627
+              },
+              "word": "July,"
+            },
+            {
+              "startTime": {
+                "seconds": 2196,
+                "nanos": 305000000.00029105
+              },
+              "endTime": {
+                "seconds": 2196,
+                "nanos": 652500000.0001456
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2196,
+                "nanos": 652500000.0001456
+              },
+              "endTime": {
+                "seconds": 2197,
+                "nanos": 0.0
+              },
+              "word": "when"
+            },
+            {
+              "startTime": {
+                "seconds": 2197,
+                "nanos": 0.0
+              },
+              "endTime": {
+                "seconds": 2197,
+                "nanos": 347499999.9998545
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2197,
+                "nanos": 347500000.0003092
+              },
+              "endTime": {
+                "seconds": 2197,
+                "nanos": 695000000.0001637
+              },
+              "word": "was"
+            },
+            {
+              "startTime": {
+                "seconds": 2197,
+                "nanos": 695000000.0001637
+              },
+              "endTime": {
+                "seconds": 2198,
+                "nanos": 42500000.00001819
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2198,
+                "nanos": 42500000.00047294
+              },
+              "endTime": {
+                "seconds": 2198,
+                "nanos": 390000000.0003274
+              },
+              "word": "kid."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "You know I was.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2198,
+                "nanos": 670000000.0000727
+              },
+              "endTime": {
+                "seconds": 2198,
+                "nanos": 905000000.0002
+              },
+              "word": "You"
+            },
+            {
+              "startTime": {
+                "seconds": 2198,
+                "nanos": 905000000.0002
+              },
+              "endTime": {
+                "seconds": 2199,
+                "nanos": 140000000.0003274
+              },
+              "word": "know"
+            },
+            {
+              "startTime": {
+                "seconds": 2199,
+                "nanos": 140000000.0003274
+              },
+              "endTime": {
+                "seconds": 2199,
+                "nanos": 375000000.0004547
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2199,
+                "nanos": 375000000.0
+              },
+              "endTime": {
+                "seconds": 2199,
+                "nanos": 610000000.0001273
+              },
+              "word": "was."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "But then again, I didn't really grasp like the complexities of American history and how controversial.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2199,
+                "nanos": 610000000.0001273
+              },
+              "endTime": {
+                "seconds": 2200,
+                "nanos": 130625000.00023647
+              },
+              "word": "But"
+            },
+            {
+              "startTime": {
+                "seconds": 2200,
+                "nanos": 130625000.00023647
+              },
+              "endTime": {
+                "seconds": 2200,
+                "nanos": 651250000.0003456
+              },
+              "word": "then"
+            },
+            {
+              "startTime": {
+                "seconds": 2200,
+                "nanos": 651249999.9998908
+              },
+              "endTime": {
+                "seconds": 2201,
+                "nanos": 171875000.0
+              },
+              "word": "again,"
+            },
+            {
+              "startTime": {
+                "seconds": 2201,
+                "nanos": 171875000.0
+              },
+              "endTime": {
+                "seconds": 2201,
+                "nanos": 692500000.0001092
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2201,
+                "nanos": 692500000.0001092
+              },
+              "endTime": {
+                "seconds": 2202,
+                "nanos": 213125000.00021827
+              },
+              "word": "didn't"
+            },
+            {
+              "startTime": {
+                "seconds": 2202,
+                "nanos": 213125000.00021827
+              },
+              "endTime": {
+                "seconds": 2202,
+                "nanos": 733750000.0003275
+              },
+              "word": "really"
+            },
+            {
+              "startTime": {
+                "seconds": 2202,
+                "nanos": 733750000.0003275
+              },
+              "endTime": {
+                "seconds": 2203,
+                "nanos": 254375000.00043654
+              },
+              "word": "grasp"
+            },
+            {
+              "startTime": {
+                "seconds": 2203,
+                "nanos": 254374999.99998182
+              },
+              "endTime": {
+                "seconds": 2203,
+                "nanos": 775000000.000091
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2203,
+                "nanos": 775000000.000091
+              },
+              "endTime": {
+                "seconds": 2204,
+                "nanos": 295625000.0002001
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2204,
+                "nanos": 295625000.0002001
+              },
+              "endTime": {
+                "seconds": 2204,
+                "nanos": 816250000.0003092
+              },
+              "word": "complexities"
+            },
+            {
+              "startTime": {
+                "seconds": 2204,
+                "nanos": 816249999.9998544
+              },
+              "endTime": {
+                "seconds": 2205,
+                "nanos": 336874999.99996364
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2205,
+                "nanos": 336874999.99996364
+              },
+              "endTime": {
+                "seconds": 2205,
+                "nanos": 857500000.0000727
+              },
+              "word": "American"
+            },
+            {
+              "startTime": {
+                "seconds": 2205,
+                "nanos": 857500000.0000727
+              },
+              "endTime": {
+                "seconds": 2206,
+                "nanos": 378125000.0001819
+              },
+              "word": "history"
+            },
+            {
+              "startTime": {
+                "seconds": 2206,
+                "nanos": 378125000.0001819
+              },
+              "endTime": {
+                "seconds": 2206,
+                "nanos": 898750000.000291
+              },
+              "word": "and"
+            },
+            {
+              "startTime": {
+                "seconds": 2206,
+                "nanos": 898750000.000291
+              },
+              "endTime": {
+                "seconds": 2207,
+                "nanos": 419375000.0004002
+              },
+              "word": "how"
+            },
+            {
+              "startTime": {
+                "seconds": 2207,
+                "nanos": 419374999.9999454
+              },
+              "endTime": {
+                "seconds": 2207,
+                "nanos": 940000000.0000546
+              },
+              "word": "controversial."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "You know, 4th of July can be.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2208,
+                "nanos": 530000000.0002001
+              },
+              "endTime": {
+                "seconds": 2208,
+                "nanos": 797142857.1431715
+              },
+              "word": "You"
+            },
+            {
+              "startTime": {
+                "seconds": 2208,
+                "nanos": 797142857.1431715
+              },
+              "endTime": {
+                "seconds": 2209,
+                "nanos": 64285714.28614305
+              },
+              "word": "know,"
+            },
+            {
+              "startTime": {
+                "seconds": 2209,
+                "nanos": 64285714.2856883
+              },
+              "endTime": {
+                "seconds": 2209,
+                "nanos": 331428571.4286598
+              },
+              "word": "4th"
+            },
+            {
+              "startTime": {
+                "seconds": 2209,
+                "nanos": 331428571.4286598
+              },
+              "endTime": {
+                "seconds": 2209,
+                "nanos": 598571428.5716313
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2209,
+                "nanos": 598571428.5711765
+              },
+              "endTime": {
+                "seconds": 2209,
+                "nanos": 865714285.714148
+              },
+              "word": "July"
+            },
+            {
+              "startTime": {
+                "seconds": 2209,
+                "nanos": 865714285.714148
+              },
+              "endTime": {
+                "seconds": 2210,
+                "nanos": 132857142.85711947
+              },
+              "word": "can"
+            },
+            {
+              "startTime": {
+                "seconds": 2210,
+                "nanos": 132857142.85666472
+              },
+              "endTime": {
+                "seconds": 2210,
+                "nanos": 399999999.9996362
+              },
+              "word": "be."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "And so now as an adult, I'm kind of like I don't know anymore.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2212,
+                "nanos": 590000000.0001456
+              },
+              "endTime": {
+                "seconds": 2212,
+                "nanos": 884285714.285852
+              },
+              "word": "And"
+            },
+            {
+              "startTime": {
+                "seconds": 2212,
+                "nanos": 884285714.285852
+              },
+              "endTime": {
+                "seconds": 2213,
+                "nanos": 178571428.5715585
+              },
+              "word": "so"
+            },
+            {
+              "startTime": {
+                "seconds": 2213,
+                "nanos": 178571428.5715585
+              },
+              "endTime": {
+                "seconds": 2213,
+                "nanos": 472857142.857265
+              },
+              "word": "now"
+            },
+            {
+              "startTime": {
+                "seconds": 2213,
+                "nanos": 472857142.857265
+              },
+              "endTime": {
+                "seconds": 2213,
+                "nanos": 767142857.1429715
+              },
+              "word": "as"
+            },
+            {
+              "startTime": {
+                "seconds": 2213,
+                "nanos": 767142857.1429715
+              },
+              "endTime": {
+                "seconds": 2214,
+                "nanos": 61428571.42867797
+              },
+              "word": "an"
+            },
+            {
+              "startTime": {
+                "seconds": 2214,
+                "nanos": 61428571.42867797
+              },
+              "endTime": {
+                "seconds": 2214,
+                "nanos": 355714285.71438444
+              },
+              "word": "adult,"
+            },
+            {
+              "startTime": {
+                "seconds": 2214,
+                "nanos": 355714285.71438444
+              },
+              "endTime": {
+                "seconds": 2214,
+                "nanos": 650000000.000091
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2214,
+                "nanos": 650000000.000091
+              },
+              "endTime": {
+                "seconds": 2214,
+                "nanos": 944285714.2857975
+              },
+              "word": "kind"
+            },
+            {
+              "startTime": {
+                "seconds": 2214,
+                "nanos": 944285714.2857975
+              },
+              "endTime": {
+                "seconds": 2215,
+                "nanos": 238571428.57150394
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2215,
+                "nanos": 238571428.57150394
+              },
+              "endTime": {
+                "seconds": 2215,
+                "nanos": 532857142.8572104
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2215,
+                "nanos": 532857142.8572104
+              },
+              "endTime": {
+                "seconds": 2215,
+                "nanos": 827142857.1429169
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2215,
+                "nanos": 827142857.1429169
+              },
+              "endTime": {
+                "seconds": 2216,
+                "nanos": 121428571.4286234
+              },
+              "word": "don't"
+            },
+            {
+              "startTime": {
+                "seconds": 2216,
+                "nanos": 121428571.4286234
+              },
+              "endTime": {
+                "seconds": 2216,
+                "nanos": 415714285.7143299
+              },
+              "word": "know"
+            },
+            {
+              "startTime": {
+                "seconds": 2216,
+                "nanos": 415714285.7143299
+              },
+              "endTime": {
+                "seconds": 2216,
+                "nanos": 710000000.0000364
+              },
+              "word": "anymore."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "He mentioned game streaming hit me up.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2217,
+                "nanos": 840000000.0001456
+              },
+              "endTime": {
+                "seconds": 2218,
+                "nanos": 77142857.1429169
+              },
+              "word": "He"
+            },
+            {
+              "startTime": {
+                "seconds": 2218,
+                "nanos": 77142857.1429169
+              },
+              "endTime": {
+                "seconds": 2218,
+                "nanos": 314285714.2856883
+              },
+              "word": "mentioned"
+            },
+            {
+              "startTime": {
+                "seconds": 2218,
+                "nanos": 314285714.2856883
+              },
+              "endTime": {
+                "seconds": 2218,
+                "nanos": 551428571.4284596
+              },
+              "word": "game"
+            },
+            {
+              "startTime": {
+                "seconds": 2218,
+                "nanos": 551428571.4284596
+              },
+              "endTime": {
+                "seconds": 2218,
+                "nanos": 788571428.5712311
+              },
+              "word": "streaming"
+            },
+            {
+              "startTime": {
+                "seconds": 2218,
+                "nanos": 788571428.5716858
+              },
+              "endTime": {
+                "seconds": 2219,
+                "nanos": 25714285.714457218
+              },
+              "word": "hit"
+            },
+            {
+              "startTime": {
+                "seconds": 2219,
+                "nanos": 25714285.714457218
+              },
+              "endTime": {
+                "seconds": 2219,
+                "nanos": 262857142.8572286
+              },
+              "word": "me"
+            },
+            {
+              "startTime": {
+                "seconds": 2219,
+                "nanos": 262857142.8572286
+              },
+              "endTime": {
+                "seconds": 2219,
+                "nanos": 500000000.0
+              },
+              "word": "up."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "If you have played bloodborne dude I want to play bloodborne put but I need to get the game first.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2219,
+                "nanos": 500000000.0
+              },
+              "endTime": {
+                "seconds": 2219,
+                "nanos": 786000000.0000582
+              },
+              "word": "If"
+            },
+            {
+              "startTime": {
+                "seconds": 2219,
+                "nanos": 786000000.0000582
+              },
+              "endTime": {
+                "seconds": 2220,
+                "nanos": 72000000.00011641
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2220,
+                "nanos": 72000000.00011641
+              },
+              "endTime": {
+                "seconds": 2220,
+                "nanos": 358000000.00017464
+              },
+              "word": "have"
+            },
+            {
+              "startTime": {
+                "seconds": 2220,
+                "nanos": 358000000.00017464
+              },
+              "endTime": {
+                "seconds": 2220,
+                "nanos": 644000000.0002328
+              },
+              "word": "played"
+            },
+            {
+              "startTime": {
+                "seconds": 2220,
+                "nanos": 643999999.999778
+              },
+              "endTime": {
+                "seconds": 2220,
+                "nanos": 929999999.9998363
+              },
+              "word": "bloodborne"
+            },
+            {
+              "startTime": {
+                "seconds": 2220,
+                "nanos": 929999999.9998363
+              },
+              "endTime": {
+                "seconds": 2221,
+                "nanos": 215999999.9998945
+              },
+              "word": "dude"
+            },
+            {
+              "startTime": {
+                "seconds": 2221,
+                "nanos": 215999999.9998945
+              },
+              "endTime": {
+                "seconds": 2221,
+                "nanos": 501999999.99995273
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2221,
+                "nanos": 501999999.99995273
+              },
+              "endTime": {
+                "seconds": 2221,
+                "nanos": 788000000.000011
+              },
+              "word": "want"
+            },
+            {
+              "startTime": {
+                "seconds": 2221,
+                "nanos": 788000000.000011
+              },
+              "endTime": {
+                "seconds": 2222,
+                "nanos": 74000000.00006913
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2222,
+                "nanos": 74000000.00006913
+              },
+              "endTime": {
+                "seconds": 2222,
+                "nanos": 360000000.0001273
+              },
+              "word": "play"
+            },
+            {
+              "startTime": {
+                "seconds": 2222,
+                "nanos": 359999999.9996726
+              },
+              "endTime": {
+                "seconds": 2222,
+                "nanos": 645999999.9997308
+              },
+              "word": "bloodborne"
+            },
+            {
+              "startTime": {
+                "seconds": 2222,
+                "nanos": 645999999.9997308
+              },
+              "endTime": {
+                "seconds": 2222,
+                "nanos": 931999999.999789
+              },
+              "word": "put"
+            },
+            {
+              "startTime": {
+                "seconds": 2222,
+                "nanos": 931999999.999789
+              },
+              "endTime": {
+                "seconds": 2223,
+                "nanos": 217999999.9998472
+              },
+              "word": "but"
+            },
+            {
+              "startTime": {
+                "seconds": 2223,
+                "nanos": 217999999.9998472
+              },
+              "endTime": {
+                "seconds": 2223,
+                "nanos": 503999999.9999054
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2223,
+                "nanos": 503999999.9999054
+              },
+              "endTime": {
+                "seconds": 2223,
+                "nanos": 789999999.9999636
+              },
+              "word": "need"
+            },
+            {
+              "startTime": {
+                "seconds": 2223,
+                "nanos": 789999999.9999636
+              },
+              "endTime": {
+                "seconds": 2224,
+                "nanos": 76000000.00002183
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2224,
+                "nanos": 76000000.00002183
+              },
+              "endTime": {
+                "seconds": 2224,
+                "nanos": 362000000.00008005
+              },
+              "word": "get"
+            },
+            {
+              "startTime": {
+                "seconds": 2224,
+                "nanos": 361999999.99962527
+              },
+              "endTime": {
+                "seconds": 2224,
+                "nanos": 647999999.9996835
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2224,
+                "nanos": 647999999.9996835
+              },
+              "endTime": {
+                "seconds": 2224,
+                "nanos": 933999999.9997417
+              },
+              "word": "game"
+            },
+            {
+              "startTime": {
+                "seconds": 2224,
+                "nanos": 933999999.9997417
+              },
+              "endTime": {
+                "seconds": 2225,
+                "nanos": 219999999.9997999
+              },
+              "word": "first."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I need to be able to purchase the game first 'cause I want to get up to get bloodborne I want to get a center was sacrificed hellblade and help way too when it comes out.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2226,
+                "nanos": 920000000.0000727
+              },
+              "endTime": {
+                "seconds": 2227,
+                "nanos": 263888888.88914153
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2227,
+                "nanos": 263888888.88914153
+              },
+              "endTime": {
+                "seconds": 2227,
+                "nanos": 607777777.7782103
+              },
+              "word": "need"
+            },
+            {
+              "startTime": {
+                "seconds": 2227,
+                "nanos": 607777777.7777555
+              },
+              "endTime": {
+                "seconds": 2227,
+                "nanos": 951666666.6668243
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2227,
+                "nanos": 951666666.6668243
+              },
+              "endTime": {
+                "seconds": 2228,
+                "nanos": 295555555.55589306
+              },
+              "word": "be"
+            },
+            {
+              "startTime": {
+                "seconds": 2228,
+                "nanos": 295555555.55543834
+              },
+              "endTime": {
+                "seconds": 2228,
+                "nanos": 639444444.4445071
+              },
+              "word": "able"
+            },
+            {
+              "startTime": {
+                "seconds": 2228,
+                "nanos": 639444444.4445071
+              },
+              "endTime": {
+                "seconds": 2228,
+                "nanos": 983333333.3335758
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2228,
+                "nanos": 983333333.3335758
+              },
+              "endTime": {
+                "seconds": 2229,
+                "nanos": 327222222.2226446
+              },
+              "word": "purchase"
+            },
+            {
+              "startTime": {
+                "seconds": 2229,
+                "nanos": 327222222.2221899
+              },
+              "endTime": {
+                "seconds": 2229,
+                "nanos": 671111111.1112586
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2229,
+                "nanos": 671111111.1112586
+              },
+              "endTime": {
+                "seconds": 2230,
+                "nanos": 15000000.000327418
+              },
+              "word": "game"
+            },
+            {
+              "startTime": {
+                "seconds": 2230,
+                "nanos": 15000000.000327418
+              },
+              "endTime": {
+                "seconds": 2230,
+                "nanos": 358888888.8893962
+              },
+              "word": "first"
+            },
+            {
+              "startTime": {
+                "seconds": 2230,
+                "nanos": 358888888.88894147
+              },
+              "endTime": {
+                "seconds": 2230,
+                "nanos": 702777777.7780102
+              },
+              "word": "'cause"
+            },
+            {
+              "startTime": {
+                "seconds": 2230,
+                "nanos": 702777777.7780102
+              },
+              "endTime": {
+                "seconds": 2231,
+                "nanos": 46666666.66707897
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2231,
+                "nanos": 46666666.666624226
+              },
+              "endTime": {
+                "seconds": 2231,
+                "nanos": 390555555.555693
+              },
+              "word": "want"
+            },
+            {
+              "startTime": {
+                "seconds": 2231,
+                "nanos": 390555555.555693
+              },
+              "endTime": {
+                "seconds": 2231,
+                "nanos": 734444444.4447618
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2231,
+                "nanos": 734444444.4447618
+              },
+              "endTime": {
+                "seconds": 2232,
+                "nanos": 78333333.33383052
+              },
+              "word": "get"
+            },
+            {
+              "startTime": {
+                "seconds": 2232,
+                "nanos": 78333333.33337578
+              },
+              "endTime": {
+                "seconds": 2232,
+                "nanos": 422222222.22244453
+              },
+              "word": "up"
+            },
+            {
+              "startTime": {
+                "seconds": 2232,
+                "nanos": 422222222.22244453
+              },
+              "endTime": {
+                "seconds": 2232,
+                "nanos": 766111111.1115133
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2232,
+                "nanos": 766111111.1110586
+              },
+              "endTime": {
+                "seconds": 2233,
+                "nanos": 110000000.00012733
+              },
+              "word": "get"
+            },
+            {
+              "startTime": {
+                "seconds": 2233,
+                "nanos": 110000000.00012733
+              },
+              "endTime": {
+                "seconds": 2233,
+                "nanos": 453888888.8891961
+              },
+              "word": "bloodborne"
+            },
+            {
+              "startTime": {
+                "seconds": 2233,
+                "nanos": 453888888.8891961
+              },
+              "endTime": {
+                "seconds": 2233,
+                "nanos": 797777777.7782649
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2233,
+                "nanos": 797777777.7778101
+              },
+              "endTime": {
+                "seconds": 2234,
+                "nanos": 141666666.66687888
+              },
+              "word": "want"
+            },
+            {
+              "startTime": {
+                "seconds": 2234,
+                "nanos": 141666666.66687888
+              },
+              "endTime": {
+                "seconds": 2234,
+                "nanos": 485555555.55594766
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2234,
+                "nanos": 485555555.5554929
+              },
+              "endTime": {
+                "seconds": 2234,
+                "nanos": 829444444.4445617
+              },
+              "word": "get"
+            },
+            {
+              "startTime": {
+                "seconds": 2234,
+                "nanos": 829444444.4445617
+              },
+              "endTime": {
+                "seconds": 2235,
+                "nanos": 173333333.33363044
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2235,
+                "nanos": 173333333.33363044
+              },
+              "endTime": {
+                "seconds": 2235,
+                "nanos": 517222222.2226992
+              },
+              "word": "center"
+            },
+            {
+              "startTime": {
+                "seconds": 2235,
+                "nanos": 517222222.22224444
+              },
+              "endTime": {
+                "seconds": 2235,
+                "nanos": 861111111.1113132
+              },
+              "word": "was"
+            },
+            {
+              "startTime": {
+                "seconds": 2235,
+                "nanos": 861111111.1113132
+              },
+              "endTime": {
+                "seconds": 2236,
+                "nanos": 205000000.00038198
+              },
+              "word": "sacrificed"
+            },
+            {
+              "startTime": {
+                "seconds": 2236,
+                "nanos": 204999999.99992725
+              },
+              "endTime": {
+                "seconds": 2236,
+                "nanos": 548888888.888996
+              },
+              "word": "hellblade"
+            },
+            {
+              "startTime": {
+                "seconds": 2236,
+                "nanos": 548888888.888996
+              },
+              "endTime": {
+                "seconds": 2236,
+                "nanos": 892777777.7780647
+              },
+              "word": "and"
+            },
+            {
+              "startTime": {
+                "seconds": 2236,
+                "nanos": 892777777.7780647
+              },
+              "endTime": {
+                "seconds": 2237,
+                "nanos": 236666666.66713354
+              },
+              "word": "help"
+            },
+            {
+              "startTime": {
+                "seconds": 2237,
+                "nanos": 236666666.6666788
+              },
+              "endTime": {
+                "seconds": 2237,
+                "nanos": 580555555.5557475
+              },
+              "word": "way"
+            },
+            {
+              "startTime": {
+                "seconds": 2237,
+                "nanos": 580555555.5557475
+              },
+              "endTime": {
+                "seconds": 2237,
+                "nanos": 924444444.4448164
+              },
+              "word": "too"
+            },
+            {
+              "startTime": {
+                "seconds": 2237,
+                "nanos": 924444444.4448164
+              },
+              "endTime": {
+                "seconds": 2238,
+                "nanos": 268333333.3338851
+              },
+              "word": "when"
+            },
+            {
+              "startTime": {
+                "seconds": 2238,
+                "nanos": 268333333.33343035
+              },
+              "endTime": {
+                "seconds": 2238,
+                "nanos": 612222222.2224991
+              },
+              "word": "it"
+            },
+            {
+              "startTime": {
+                "seconds": 2238,
+                "nanos": 612222222.2224991
+              },
+              "endTime": {
+                "seconds": 2238,
+                "nanos": 956111111.1115679
+              },
+              "word": "comes"
+            },
+            {
+              "startTime": {
+                "seconds": 2238,
+                "nanos": 956111111.1111132
+              },
+              "endTime": {
+                "seconds": 2239,
+                "nanos": 300000000.0001819
+              },
+              "word": "out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "What are the things I have now?",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2241,
+                "nanos": 0.0
+              },
+              "endTime": {
+                "seconds": 2241,
+                "nanos": 202857142.85728317
+              },
+              "word": "What"
+            },
+            {
+              "startTime": {
+                "seconds": 2241,
+                "nanos": 202857142.85728317
+              },
+              "endTime": {
+                "seconds": 2241,
+                "nanos": 405714285.71456635
+              },
+              "word": "are"
+            },
+            {
+              "startTime": {
+                "seconds": 2241,
+                "nanos": 405714285.7141116
+              },
+              "endTime": {
+                "seconds": 2241,
+                "nanos": 608571428.5713948
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2241,
+                "nanos": 608571428.5713948
+              },
+              "endTime": {
+                "seconds": 2241,
+                "nanos": 811428571.4286779
+              },
+              "word": "things"
+            },
+            {
+              "startTime": {
+                "seconds": 2241,
+                "nanos": 811428571.4286779
+              },
+              "endTime": {
+                "seconds": 2242,
+                "nanos": 14285714.28596115
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2242,
+                "nanos": 14285714.28596115
+              },
+              "endTime": {
+                "seconds": 2242,
+                "nanos": 217142857.14324433
+              },
+              "word": "have"
+            },
+            {
+              "startTime": {
+                "seconds": 2242,
+                "nanos": 217142857.14278957
+              },
+              "endTime": {
+                "seconds": 2242,
+                "nanos": 420000000.0000728
+              },
+              "word": "now?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I have all the bioshock's I love bio shock.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2242,
+                "nanos": 420000000.0000728
+              },
+              "endTime": {
+                "seconds": 2242,
+                "nanos": 826666666.6668243
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2242,
+                "nanos": 826666666.6668243
+              },
+              "endTime": {
+                "seconds": 2243,
+                "nanos": 233333333.33357587
+              },
+              "word": "have"
+            },
+            {
+              "startTime": {
+                "seconds": 2243,
+                "nanos": 233333333.33357587
+              },
+              "endTime": {
+                "seconds": 2243,
+                "nanos": 640000000.0003275
+              },
+              "word": "all"
+            },
+            {
+              "startTime": {
+                "seconds": 2243,
+                "nanos": 639999999.9998727
+              },
+              "endTime": {
+                "seconds": 2244,
+                "nanos": 46666666.666624226
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2244,
+                "nanos": 46666666.666624226
+              },
+              "endTime": {
+                "seconds": 2244,
+                "nanos": 453333333.33337575
+              },
+              "word": "bioshock's"
+            },
+            {
+              "startTime": {
+                "seconds": 2244,
+                "nanos": 453333333.33337575
+              },
+              "endTime": {
+                "seconds": 2244,
+                "nanos": 860000000.0001273
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2244,
+                "nanos": 860000000.0001273
+              },
+              "endTime": {
+                "seconds": 2245,
+                "nanos": 266666666.66687888
+              },
+              "word": "love"
+            },
+            {
+              "startTime": {
+                "seconds": 2245,
+                "nanos": 266666666.66642413
+              },
+              "endTime": {
+                "seconds": 2245,
+                "nanos": 673333333.3331757
+              },
+              "word": "bio"
+            },
+            {
+              "startTime": {
+                "seconds": 2245,
+                "nanos": 673333333.3331757
+              },
+              "endTime": {
+                "seconds": 2246,
+                "nanos": 79999999.99992724
+              },
+              "word": "shock."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I have Skyrim.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2246,
+                "nanos": 99999999.99990904
+              },
+              "endTime": {
+                "seconds": 2246,
+                "nanos": 466666666.66669697
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2246,
+                "nanos": 466666666.66669697
+              },
+              "endTime": {
+                "seconds": 2246,
+                "nanos": 833333333.3334849
+              },
+              "word": "have"
+            },
+            {
+              "startTime": {
+                "seconds": 2246,
+                "nanos": 833333333.3330302
+              },
+              "endTime": {
+                "seconds": 2247,
+                "nanos": 199999999.9998181
+              },
+              "word": "Skyrim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I really really love Skyrim.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2247,
+                "nanos": 539999999.9999636
+              },
+              "endTime": {
+                "seconds": 2247,
+                "nanos": 824000000.0000691
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2247,
+                "nanos": 824000000.0000691
+              },
+              "endTime": {
+                "seconds": 2248,
+                "nanos": 108000000.00017463
+              },
+              "word": "really"
+            },
+            {
+              "startTime": {
+                "seconds": 2248,
+                "nanos": 108000000.00017463
+              },
+              "endTime": {
+                "seconds": 2248,
+                "nanos": 392000000.00028014
+              },
+              "word": "really"
+            },
+            {
+              "startTime": {
+                "seconds": 2248,
+                "nanos": 391999999.99982536
+              },
+              "endTime": {
+                "seconds": 2248,
+                "nanos": 675999999.9999309
+              },
+              "word": "love"
+            },
+            {
+              "startTime": {
+                "seconds": 2248,
+                "nanos": 675999999.9999309
+              },
+              "endTime": {
+                "seconds": 2248,
+                "nanos": 960000000.0000364
+              },
+              "word": "Skyrim."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Skyrim is my favorite more recent video games that I've played actively, but bloodborne is definitely on my list.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2248,
+                "nanos": 960000000.0000364
+              },
+              "endTime": {
+                "seconds": 2249,
+                "nanos": 503157894.7368871
+              },
+              "word": "Skyrim"
+            },
+            {
+              "startTime": {
+                "seconds": 2249,
+                "nanos": 503157894.7368871
+              },
+              "endTime": {
+                "seconds": 2250,
+                "nanos": 46315789.47373782
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2250,
+                "nanos": 46315789.47373782
+              },
+              "endTime": {
+                "seconds": 2250,
+                "nanos": 589473684.2105886
+              },
+              "word": "my"
+            },
+            {
+              "startTime": {
+                "seconds": 2250,
+                "nanos": 589473684.2105886
+              },
+              "endTime": {
+                "seconds": 2251,
+                "nanos": 132631578.94743927
+              },
+              "word": "favorite"
+            },
+            {
+              "startTime": {
+                "seconds": 2251,
+                "nanos": 132631578.94743927
+              },
+              "endTime": {
+                "seconds": 2251,
+                "nanos": 675789473.6842899
+              },
+              "word": "more"
+            },
+            {
+              "startTime": {
+                "seconds": 2251,
+                "nanos": 675789473.6842899
+              },
+              "endTime": {
+                "seconds": 2252,
+                "nanos": 218947368.4211407
+              },
+              "word": "recent"
+            },
+            {
+              "startTime": {
+                "seconds": 2252,
+                "nanos": 218947368.4211407
+              },
+              "endTime": {
+                "seconds": 2252,
+                "nanos": 762105263.1579914
+              },
+              "word": "video"
+            },
+            {
+              "startTime": {
+                "seconds": 2252,
+                "nanos": 762105263.1579914
+              },
+              "endTime": {
+                "seconds": 2253,
+                "nanos": 305263157.89484215
+              },
+              "word": "games"
+            },
+            {
+              "startTime": {
+                "seconds": 2253,
+                "nanos": 305263157.89484215
+              },
+              "endTime": {
+                "seconds": 2253,
+                "nanos": 848421052.6316929
+              },
+              "word": "that"
+            },
+            {
+              "startTime": {
+                "seconds": 2253,
+                "nanos": 848421052.6316929
+              },
+              "endTime": {
+                "seconds": 2254,
+                "nanos": 391578947.3685436
+              },
+              "word": "I've"
+            },
+            {
+              "startTime": {
+                "seconds": 2254,
+                "nanos": 391578947.36808884
+              },
+              "endTime": {
+                "seconds": 2254,
+                "nanos": 934736842.1049396
+              },
+              "word": "played"
+            },
+            {
+              "startTime": {
+                "seconds": 2254,
+                "nanos": 934736842.1049396
+              },
+              "endTime": {
+                "seconds": 2255,
+                "nanos": 477894736.8417903
+              },
+              "word": "actively,"
+            },
+            {
+              "startTime": {
+                "seconds": 2255,
+                "nanos": 477894736.8417903
+              },
+              "endTime": {
+                "seconds": 2256,
+                "nanos": 21052631.578641012
+              },
+              "word": "but"
+            },
+            {
+              "startTime": {
+                "seconds": 2256,
+                "nanos": 21052631.578641012
+              },
+              "endTime": {
+                "seconds": 2256,
+                "nanos": 564210526.3154917
+              },
+              "word": "bloodborne"
+            },
+            {
+              "startTime": {
+                "seconds": 2256,
+                "nanos": 564210526.3154917
+              },
+              "endTime": {
+                "seconds": 2257,
+                "nanos": 107368421.05234246
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2257,
+                "nanos": 107368421.05234246
+              },
+              "endTime": {
+                "seconds": 2257,
+                "nanos": 650526315.7891932
+              },
+              "word": "definitely"
+            },
+            {
+              "startTime": {
+                "seconds": 2257,
+                "nanos": 650526315.7891932
+              },
+              "endTime": {
+                "seconds": 2258,
+                "nanos": 193684210.5260439
+              },
+              "word": "on"
+            },
+            {
+              "startTime": {
+                "seconds": 2258,
+                "nanos": 193684210.5260439
+              },
+              "endTime": {
+                "seconds": 2258,
+                "nanos": 736842105.2628946
+              },
+              "word": "my"
+            },
+            {
+              "startTime": {
+                "seconds": 2258,
+                "nanos": 736842105.2628946
+              },
+              "endTime": {
+                "seconds": 2259,
+                "nanos": 279999999.99974537
+              },
+              "word": "list."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Of games that I want to play like.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2260,
+                "nanos": 940000000.0000546
+              },
+              "endTime": {
+                "seconds": 2261,
+                "nanos": 150000000.00009096
+              },
+              "word": "Of"
+            },
+            {
+              "startTime": {
+                "seconds": 2261,
+                "nanos": 150000000.00009096
+              },
+              "endTime": {
+                "seconds": 2261,
+                "nanos": 360000000.0001273
+              },
+              "word": "games"
+            },
+            {
+              "startTime": {
+                "seconds": 2261,
+                "nanos": 360000000.0001273
+              },
+              "endTime": {
+                "seconds": 2261,
+                "nanos": 570000000.0001637
+              },
+              "word": "that"
+            },
+            {
+              "startTime": {
+                "seconds": 2261,
+                "nanos": 570000000.0001637
+              },
+              "endTime": {
+                "seconds": 2261,
+                "nanos": 780000000.0002
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2261,
+                "nanos": 779999999.9997454
+              },
+              "endTime": {
+                "seconds": 2261,
+                "nanos": 989999999.9997817
+              },
+              "word": "want"
+            },
+            {
+              "startTime": {
+                "seconds": 2261,
+                "nanos": 989999999.9997817
+              },
+              "endTime": {
+                "seconds": 2262,
+                "nanos": 199999999.9998181
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2262,
+                "nanos": 199999999.9998181
+              },
+              "endTime": {
+                "seconds": 2262,
+                "nanos": 409999999.9998545
+              },
+              "word": "play"
+            },
+            {
+              "startTime": {
+                "seconds": 2262,
+                "nanos": 409999999.9998545
+              },
+              "endTime": {
+                "seconds": 2262,
+                "nanos": 619999999.9998908
+              },
+              "word": "like."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "And that's the thing, I am not a good gamer.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2264,
+                "nanos": 250000000.0
+              },
+              "endTime": {
+                "seconds": 2264,
+                "nanos": 445999999.9999127
+              },
+              "word": "And"
+            },
+            {
+              "startTime": {
+                "seconds": 2264,
+                "nanos": 445999999.9999127
+              },
+              "endTime": {
+                "seconds": 2264,
+                "nanos": 641999999.9998254
+              },
+              "word": "that's"
+            },
+            {
+              "startTime": {
+                "seconds": 2264,
+                "nanos": 641999999.9998254
+              },
+              "endTime": {
+                "seconds": 2264,
+                "nanos": 837999999.9997381
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2264,
+                "nanos": 838000000.0001928
+              },
+              "endTime": {
+                "seconds": 2265,
+                "nanos": 34000000.0001055
+              },
+              "word": "thing,"
+            },
+            {
+              "startTime": {
+                "seconds": 2265,
+                "nanos": 34000000.0001055
+              },
+              "endTime": {
+                "seconds": 2265,
+                "nanos": 230000000.00001818
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2265,
+                "nanos": 230000000.00001818
+              },
+              "endTime": {
+                "seconds": 2265,
+                "nanos": 425999999.99993086
+              },
+              "word": "am"
+            },
+            {
+              "startTime": {
+                "seconds": 2265,
+                "nanos": 425999999.99993086
+              },
+              "endTime": {
+                "seconds": 2265,
+                "nanos": 621999999.9998436
+              },
+              "word": "not"
+            },
+            {
+              "startTime": {
+                "seconds": 2265,
+                "nanos": 621999999.9998436
+              },
+              "endTime": {
+                "seconds": 2265,
+                "nanos": 817999999.9997562
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2265,
+                "nanos": 818000000.000211
+              },
+              "endTime": {
+                "seconds": 2266,
+                "nanos": 14000000.00012369
+              },
+              "word": "good"
+            },
+            {
+              "startTime": {
+                "seconds": 2266,
+                "nanos": 14000000.00012369
+              },
+              "endTime": {
+                "seconds": 2266,
+                "nanos": 210000000.0000364
+              },
+              "word": "gamer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I am not a good gamer in any.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2268,
+                "nanos": 460000000.00003636
+              },
+              "endTime": {
+                "seconds": 2268,
+                "nanos": 750000000.0
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2268,
+                "nanos": 750000000.0
+              },
+              "endTime": {
+                "seconds": 2269,
+                "nanos": 39999999.99996362
+              },
+              "word": "am"
+            },
+            {
+              "startTime": {
+                "seconds": 2269,
+                "nanos": 39999999.99996362
+              },
+              "endTime": {
+                "seconds": 2269,
+                "nanos": 329999999.9999272
+              },
+              "word": "not"
+            },
+            {
+              "startTime": {
+                "seconds": 2269,
+                "nanos": 329999999.9999272
+              },
+              "endTime": {
+                "seconds": 2269,
+                "nanos": 619999999.9998908
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2269,
+                "nanos": 619999999.9998908
+              },
+              "endTime": {
+                "seconds": 2269,
+                "nanos": 909999999.9998544
+              },
+              "word": "good"
+            },
+            {
+              "startTime": {
+                "seconds": 2269,
+                "nanos": 909999999.9998544
+              },
+              "endTime": {
+                "seconds": 2270,
+                "nanos": 199999999.9998181
+              },
+              "word": "gamer"
+            },
+            {
+              "startTime": {
+                "seconds": 2270,
+                "nanos": 199999999.9998181
+              },
+              "endTime": {
+                "seconds": 2270,
+                "nanos": 489999999.9997817
+              },
+              "word": "in"
+            },
+            {
+              "startTime": {
+                "seconds": 2270,
+                "nanos": 489999999.9997817
+              },
+              "endTime": {
+                "seconds": 2270,
+                "nanos": 779999999.9997454
+              },
+              "word": "any."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "You know, like you know idea like no.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2271,
+                "nanos": 380000000.00010914
+              },
+              "endTime": {
+                "seconds": 2271,
+                "nanos": 800000000.0001819
+              },
+              "word": "You"
+            },
+            {
+              "startTime": {
+                "seconds": 2271,
+                "nanos": 800000000.0001819
+              },
+              "endTime": {
+                "seconds": 2272,
+                "nanos": 220000000.00025466
+              },
+              "word": "know,"
+            },
+            {
+              "startTime": {
+                "seconds": 2272,
+                "nanos": 220000000.00025466
+              },
+              "endTime": {
+                "seconds": 2272,
+                "nanos": 640000000.0003275
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2272,
+                "nanos": 640000000.0003275
+              },
+              "endTime": {
+                "seconds": 2273,
+                "nanos": 60000000.00040018
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2273,
+                "nanos": 60000000.00040018
+              },
+              "endTime": {
+                "seconds": 2273,
+                "nanos": 480000000.00047296
+              },
+              "word": "know"
+            },
+            {
+              "startTime": {
+                "seconds": 2273,
+                "nanos": 480000000.0000182
+              },
+              "endTime": {
+                "seconds": 2273,
+                "nanos": 900000000.000091
+              },
+              "word": "idea"
+            },
+            {
+              "startTime": {
+                "seconds": 2273,
+                "nanos": 900000000.000091
+              },
+              "endTime": {
+                "seconds": 2274,
+                "nanos": 320000000.00016373
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2274,
+                "nanos": 320000000.00016373
+              },
+              "endTime": {
+                "seconds": 2274,
+                "nanos": 740000000.0002365
+              },
+              "word": "no."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I am absolutely the one who's like.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2274,
+                "nanos": 739999999.9997817
+              },
+              "endTime": {
+                "seconds": 2275,
+                "nanos": 88571428.57141298
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2275,
+                "nanos": 88571428.57141298
+              },
+              "endTime": {
+                "seconds": 2275,
+                "nanos": 437142857.14304423
+              },
+              "word": "am"
+            },
+            {
+              "startTime": {
+                "seconds": 2275,
+                "nanos": 437142857.1425895
+              },
+              "endTime": {
+                "seconds": 2275,
+                "nanos": 785714285.7142208
+              },
+              "word": "absolutely"
+            },
+            {
+              "startTime": {
+                "seconds": 2275,
+                "nanos": 785714285.7142208
+              },
+              "endTime": {
+                "seconds": 2276,
+                "nanos": 134285714.28585202
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2276,
+                "nanos": 134285714.28585202
+              },
+              "endTime": {
+                "seconds": 2276,
+                "nanos": 482857142.85748327
+              },
+              "word": "one"
+            },
+            {
+              "startTime": {
+                "seconds": 2276,
+                "nanos": 482857142.85748327
+              },
+              "endTime": {
+                "seconds": 2276,
+                "nanos": 831428571.4291146
+              },
+              "word": "who's"
+            },
+            {
+              "startTime": {
+                "seconds": 2276,
+                "nanos": 831428571.4286598
+              },
+              "endTime": {
+                "seconds": 2277,
+                "nanos": 180000000.00029105
+              },
+              "word": "like."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Why do I suck at this?",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2277,
+                "nanos": 179999999.9998363
+              },
+              "endTime": {
+                "seconds": 2277,
+                "nanos": 420000000.0000728
+              },
+              "word": "Why"
+            },
+            {
+              "startTime": {
+                "seconds": 2277,
+                "nanos": 420000000.0000728
+              },
+              "endTime": {
+                "seconds": 2277,
+                "nanos": 660000000.0003092
+              },
+              "word": "do"
+            },
+            {
+              "startTime": {
+                "seconds": 2277,
+                "nanos": 659999999.9998544
+              },
+              "endTime": {
+                "seconds": 2277,
+                "nanos": 900000000.000091
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2277,
+                "nanos": 900000000.000091
+              },
+              "endTime": {
+                "seconds": 2278,
+                "nanos": 140000000.0003274
+              },
+              "word": "suck"
+            },
+            {
+              "startTime": {
+                "seconds": 2278,
+                "nanos": 140000000.0003274
+              },
+              "endTime": {
+                "seconds": 2278,
+                "nanos": 380000000.00056386
+              },
+              "word": "at"
+            },
+            {
+              "startTime": {
+                "seconds": 2278,
+                "nanos": 380000000.00010914
+              },
+              "endTime": {
+                "seconds": 2278,
+                "nanos": 620000000.0003456
+              },
+              "word": "this?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "And I'm like Level 3 and the boss I'm fighting is like level 32 is like no, you're just kind of a dingdong.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2278,
+                "nanos": 619999999.9998908
+              },
+              "endTime": {
+                "seconds": 2279,
+                "nanos": 39130434.78269174
+              },
+              "word": "And"
+            },
+            {
+              "startTime": {
+                "seconds": 2279,
+                "nanos": 39130434.78269174
+              },
+              "endTime": {
+                "seconds": 2279,
+                "nanos": 458260869.56549263
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2279,
+                "nanos": 458260869.56503785
+              },
+              "endTime": {
+                "seconds": 2279,
+                "nanos": 877391304.3478388
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2279,
+                "nanos": 877391304.3478388
+              },
+              "endTime": {
+                "seconds": 2280,
+                "nanos": 296521739.1306396
+              },
+              "word": "Level"
+            },
+            {
+              "startTime": {
+                "seconds": 2280,
+                "nanos": 296521739.1301849
+              },
+              "endTime": {
+                "seconds": 2280,
+                "nanos": 715652173.9129858
+              },
+              "word": "3"
+            },
+            {
+              "startTime": {
+                "seconds": 2280,
+                "nanos": 715652173.9129858
+              },
+              "endTime": {
+                "seconds": 2281,
+                "nanos": 134782608.69578663
+              },
+              "word": "and"
+            },
+            {
+              "startTime": {
+                "seconds": 2281,
+                "nanos": 134782608.69533187
+              },
+              "endTime": {
+                "seconds": 2281,
+                "nanos": 553913043.4781327
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2281,
+                "nanos": 553913043.4781327
+              },
+              "endTime": {
+                "seconds": 2281,
+                "nanos": 973043478.2609336
+              },
+              "word": "boss"
+            },
+            {
+              "startTime": {
+                "seconds": 2281,
+                "nanos": 973043478.2609336
+              },
+              "endTime": {
+                "seconds": 2282,
+                "nanos": 392173913.0437345
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2282,
+                "nanos": 392173913.04327977
+              },
+              "endTime": {
+                "seconds": 2282,
+                "nanos": 811304347.8260807
+              },
+              "word": "fighting"
+            },
+            {
+              "startTime": {
+                "seconds": 2282,
+                "nanos": 811304347.8260807
+              },
+              "endTime": {
+                "seconds": 2283,
+                "nanos": 230434782.6088815
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2283,
+                "nanos": 230434782.60842675
+              },
+              "endTime": {
+                "seconds": 2283,
+                "nanos": 649565217.3912276
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2283,
+                "nanos": 649565217.3912276
+              },
+              "endTime": {
+                "seconds": 2284,
+                "nanos": 68695652.17402852
+              },
+              "word": "level"
+            },
+            {
+              "startTime": {
+                "seconds": 2284,
+                "nanos": 68695652.17357376
+              },
+              "endTime": {
+                "seconds": 2284,
+                "nanos": 487826086.95637465
+              },
+              "word": "32"
+            },
+            {
+              "startTime": {
+                "seconds": 2284,
+                "nanos": 487826086.95637465
+              },
+              "endTime": {
+                "seconds": 2284,
+                "nanos": 906956521.7391756
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2284,
+                "nanos": 906956521.7387208
+              },
+              "endTime": {
+                "seconds": 2285,
+                "nanos": 326086956.5215216
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2285,
+                "nanos": 326086956.5215216
+              },
+              "endTime": {
+                "seconds": 2285,
+                "nanos": 745217391.3043225
+              },
+              "word": "no,"
+            },
+            {
+              "startTime": {
+                "seconds": 2285,
+                "nanos": 745217391.3043225
+              },
+              "endTime": {
+                "seconds": 2286,
+                "nanos": 164347826.0871234
+              },
+              "word": "you're"
+            },
+            {
+              "startTime": {
+                "seconds": 2286,
+                "nanos": 164347826.08666864
+              },
+              "endTime": {
+                "seconds": 2286,
+                "nanos": 583478260.8694695
+              },
+              "word": "just"
+            },
+            {
+              "startTime": {
+                "seconds": 2286,
+                "nanos": 583478260.8694695
+              },
+              "endTime": {
+                "seconds": 2287,
+                "nanos": 2608695.6522703986
+              },
+              "word": "kind"
+            },
+            {
+              "startTime": {
+                "seconds": 2287,
+                "nanos": 2608695.651815651
+              },
+              "endTime": {
+                "seconds": 2287,
+                "nanos": 421739130.4346165
+              },
+              "word": "of"
+            },
+            {
+              "startTime": {
+                "seconds": 2287,
+                "nanos": 421739130.4346165
+              },
+              "endTime": {
+                "seconds": 2287,
+                "nanos": 840869565.2174174
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2287,
+                "nanos": 840869565.2169627
+              },
+              "endTime": {
+                "seconds": 2288,
+                "nanos": 259999999.99976352
+              },
+              "word": "dingdong."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "You do suck, but it's 'cause you're not high level in both you know.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2292,
+                "nanos": 900000000.000091
+              },
+              "endTime": {
+                "seconds": 2293,
+                "nanos": 172857142.85708308
+              },
+              "word": "You"
+            },
+            {
+              "startTime": {
+                "seconds": 2293,
+                "nanos": 172857142.85708308
+              },
+              "endTime": {
+                "seconds": 2293,
+                "nanos": 445714285.7140752
+              },
+              "word": "do"
+            },
+            {
+              "startTime": {
+                "seconds": 2293,
+                "nanos": 445714285.71453
+              },
+              "endTime": {
+                "seconds": 2293,
+                "nanos": 718571428.5715221
+              },
+              "word": "suck,"
+            },
+            {
+              "startTime": {
+                "seconds": 2293,
+                "nanos": 718571428.5715221
+              },
+              "endTime": {
+                "seconds": 2293,
+                "nanos": 991428571.4285142
+              },
+              "word": "but"
+            },
+            {
+              "startTime": {
+                "seconds": 2293,
+                "nanos": 991428571.4285142
+              },
+              "endTime": {
+                "seconds": 2294,
+                "nanos": 264285714.2855064
+              },
+              "word": "it's"
+            },
+            {
+              "startTime": {
+                "seconds": 2294,
+                "nanos": 264285714.28596115
+              },
+              "endTime": {
+                "seconds": 2294,
+                "nanos": 537142857.1429533
+              },
+              "word": "'cause"
+            },
+            {
+              "startTime": {
+                "seconds": 2294,
+                "nanos": 537142857.1429533
+              },
+              "endTime": {
+                "seconds": 2294,
+                "nanos": 809999999.9999454
+              },
+              "word": "you're"
+            },
+            {
+              "startTime": {
+                "seconds": 2294,
+                "nanos": 810000000.0004002
+              },
+              "endTime": {
+                "seconds": 2295,
+                "nanos": 82857142.85739231
+              },
+              "word": "not"
+            },
+            {
+              "startTime": {
+                "seconds": 2295,
+                "nanos": 82857142.85739231
+              },
+              "endTime": {
+                "seconds": 2295,
+                "nanos": 355714285.71438444
+              },
+              "word": "high"
+            },
+            {
+              "startTime": {
+                "seconds": 2295,
+                "nanos": 355714285.71438444
+              },
+              "endTime": {
+                "seconds": 2295,
+                "nanos": 628571428.5713766
+              },
+              "word": "level"
+            },
+            {
+              "startTime": {
+                "seconds": 2295,
+                "nanos": 628571428.5718313
+              },
+              "endTime": {
+                "seconds": 2295,
+                "nanos": 901428571.4288235
+              },
+              "word": "in"
+            },
+            {
+              "startTime": {
+                "seconds": 2295,
+                "nanos": 901428571.4288235
+              },
+              "endTime": {
+                "seconds": 2296,
+                "nanos": 174285714.28581563
+              },
+              "word": "both"
+            },
+            {
+              "startTime": {
+                "seconds": 2296,
+                "nanos": 174285714.28581563
+              },
+              "endTime": {
+                "seconds": 2296,
+                "nanos": 447142857.1428078
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2296,
+                "nanos": 447142857.1432625
+              },
+              "endTime": {
+                "seconds": 2296,
+                "nanos": 720000000.0002546
+              },
+              "word": "know."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "But yeah I would.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2305,
+                "nanos": 239999999.99978173
+              },
+              "endTime": {
+                "seconds": 2305,
+                "nanos": 444999999.99970895
+              },
+              "word": "But"
+            },
+            {
+              "startTime": {
+                "seconds": 2305,
+                "nanos": 444999999.99970895
+              },
+              "endTime": {
+                "seconds": 2305,
+                "nanos": 649999999.9996362
+              },
+              "word": "yeah"
+            },
+            {
+              "startTime": {
+                "seconds": 2305,
+                "nanos": 650000000.000091
+              },
+              "endTime": {
+                "seconds": 2305,
+                "nanos": 855000000.0004729
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2305,
+                "nanos": 855000000.0004729
+              },
+              "endTime": {
+                "seconds": 2306,
+                "nanos": 60000000.00040018
+              },
+              "word": "would."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I would love love, love to play bloodborne.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2306,
+                "nanos": 59999999.99994543
+              },
+              "endTime": {
+                "seconds": 2306,
+                "nanos": 662499999.999909
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2306,
+                "nanos": 662499999.999909
+              },
+              "endTime": {
+                "seconds": 2307,
+                "nanos": 264999999.99987268
+              },
+              "word": "would"
+            },
+            {
+              "startTime": {
+                "seconds": 2307,
+                "nanos": 264999999.99987268
+              },
+              "endTime": {
+                "seconds": 2307,
+                "nanos": 867499999.9998363
+              },
+              "word": "love"
+            },
+            {
+              "startTime": {
+                "seconds": 2307,
+                "nanos": 867499999.9998363
+              },
+              "endTime": {
+                "seconds": 2308,
+                "nanos": 469999999.9997999
+              },
+              "word": "love,"
+            },
+            {
+              "startTime": {
+                "seconds": 2308,
+                "nanos": 470000000.00025463
+              },
+              "endTime": {
+                "seconds": 2309,
+                "nanos": 72500000.00021827
+              },
+              "word": "love"
+            },
+            {
+              "startTime": {
+                "seconds": 2309,
+                "nanos": 72500000.00021827
+              },
+              "endTime": {
+                "seconds": 2309,
+                "nanos": 675000000.0001819
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2309,
+                "nanos": 675000000.0001819
+              },
+              "endTime": {
+                "seconds": 2310,
+                "nanos": 277500000.0001455
+              },
+              "word": "play"
+            },
+            {
+              "startTime": {
+                "seconds": 2310,
+                "nanos": 277500000.0001455
+              },
+              "endTime": {
+                "seconds": 2310,
+                "nanos": 880000000.0001092
+              },
+              "word": "bloodborne."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I feel like for Sunday with sacrifice though, because it's such a.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2312,
+                "nanos": 929999999.9998363
+              },
+              "endTime": {
+                "seconds": 2313,
+                "nanos": 250000000.0
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2313,
+                "nanos": 250000000.0
+              },
+              "endTime": {
+                "seconds": 2313,
+                "nanos": 570000000.0001637
+              },
+              "word": "feel"
+            },
+            {
+              "startTime": {
+                "seconds": 2313,
+                "nanos": 569999999.999709
+              },
+              "endTime": {
+                "seconds": 2313,
+                "nanos": 889999999.9998727
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2313,
+                "nanos": 889999999.9998727
+              },
+              "endTime": {
+                "seconds": 2314,
+                "nanos": 210000000.0000364
+              },
+              "word": "for"
+            },
+            {
+              "startTime": {
+                "seconds": 2314,
+                "nanos": 210000000.0000364
+              },
+              "endTime": {
+                "seconds": 2314,
+                "nanos": 530000000.0002001
+              },
+              "word": "Sunday"
+            },
+            {
+              "startTime": {
+                "seconds": 2314,
+                "nanos": 529999999.99974537
+              },
+              "endTime": {
+                "seconds": 2314,
+                "nanos": 849999999.999909
+              },
+              "word": "with"
+            },
+            {
+              "startTime": {
+                "seconds": 2314,
+                "nanos": 849999999.999909
+              },
+              "endTime": {
+                "seconds": 2315,
+                "nanos": 170000000.00007275
+              },
+              "word": "sacrifice"
+            },
+            {
+              "startTime": {
+                "seconds": 2315,
+                "nanos": 170000000.00007275
+              },
+              "endTime": {
+                "seconds": 2315,
+                "nanos": 490000000.00023645
+              },
+              "word": "though,"
+            },
+            {
+              "startTime": {
+                "seconds": 2315,
+                "nanos": 489999999.9997817
+              },
+              "endTime": {
+                "seconds": 2315,
+                "nanos": 809999999.9999454
+              },
+              "word": "because"
+            },
+            {
+              "startTime": {
+                "seconds": 2315,
+                "nanos": 809999999.9999454
+              },
+              "endTime": {
+                "seconds": 2316,
+                "nanos": 130000000.00010914
+              },
+              "word": "it's"
+            },
+            {
+              "startTime": {
+                "seconds": 2316,
+                "nanos": 130000000.00010914
+              },
+              "endTime": {
+                "seconds": 2316,
+                "nanos": 450000000.00027287
+              },
+              "word": "such"
+            },
+            {
+              "startTime": {
+                "seconds": 2316,
+                "nanos": 449999999.9998181
+              },
+              "endTime": {
+                "seconds": 2316,
+                "nanos": 769999999.9999818
+              },
+              "word": "a."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "The storyline is so intense, like dealing with mental health issues and especially schizophrenia and things like that.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2318,
+                "nanos": 840000000.0001456
+              },
+              "endTime": {
+                "seconds": 2319,
+                "nanos": 156111111.11138597
+              },
+              "word": "The"
+            },
+            {
+              "startTime": {
+                "seconds": 2319,
+                "nanos": 156111111.11138597
+              },
+              "endTime": {
+                "seconds": 2319,
+                "nanos": 472222222.22262645
+              },
+              "word": "storyline"
+            },
+            {
+              "startTime": {
+                "seconds": 2319,
+                "nanos": 472222222.2221717
+              },
+              "endTime": {
+                "seconds": 2319,
+                "nanos": 788333333.3334122
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2319,
+                "nanos": 788333333.3334122
+              },
+              "endTime": {
+                "seconds": 2320,
+                "nanos": 104444444.44465262
+              },
+              "word": "so"
+            },
+            {
+              "startTime": {
+                "seconds": 2320,
+                "nanos": 104444444.44465262
+              },
+              "endTime": {
+                "seconds": 2320,
+                "nanos": 420555555.55589306
+              },
+              "word": "intense,"
+            },
+            {
+              "startTime": {
+                "seconds": 2320,
+                "nanos": 420555555.55589306
+              },
+              "endTime": {
+                "seconds": 2320,
+                "nanos": 736666666.6671336
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2320,
+                "nanos": 736666666.6666788
+              },
+              "endTime": {
+                "seconds": 2321,
+                "nanos": 52777777.777919255
+              },
+              "word": "dealing"
+            },
+            {
+              "startTime": {
+                "seconds": 2321,
+                "nanos": 52777777.777919255
+              },
+              "endTime": {
+                "seconds": 2321,
+                "nanos": 368888888.88915974
+              },
+              "word": "with"
+            },
+            {
+              "startTime": {
+                "seconds": 2321,
+                "nanos": 368888888.88915974
+              },
+              "endTime": {
+                "seconds": 2321,
+                "nanos": 685000000.0004002
+              },
+              "word": "mental"
+            },
+            {
+              "startTime": {
+                "seconds": 2321,
+                "nanos": 685000000.0004002
+              },
+              "endTime": {
+                "seconds": 2322,
+                "nanos": 1111111.1116406391
+              },
+              "word": "health"
+            },
+            {
+              "startTime": {
+                "seconds": 2322,
+                "nanos": 1111111.1111858918
+              },
+              "endTime": {
+                "seconds": 2322,
+                "nanos": 317222222.22242635
+              },
+              "word": "issues"
+            },
+            {
+              "startTime": {
+                "seconds": 2322,
+                "nanos": 317222222.22242635
+              },
+              "endTime": {
+                "seconds": 2322,
+                "nanos": 633333333.3336668
+              },
+              "word": "and"
+            },
+            {
+              "startTime": {
+                "seconds": 2322,
+                "nanos": 633333333.3336668
+              },
+              "endTime": {
+                "seconds": 2322,
+                "nanos": 949444444.4449073
+              },
+              "word": "especially"
+            },
+            {
+              "startTime": {
+                "seconds": 2322,
+                "nanos": 949444444.4444525
+              },
+              "endTime": {
+                "seconds": 2323,
+                "nanos": 265555555.555693
+              },
+              "word": "schizophrenia"
+            },
+            {
+              "startTime": {
+                "seconds": 2323,
+                "nanos": 265555555.555693
+              },
+              "endTime": {
+                "seconds": 2323,
+                "nanos": 581666666.6669334
+              },
+              "word": "and"
+            },
+            {
+              "startTime": {
+                "seconds": 2323,
+                "nanos": 581666666.6669334
+              },
+              "endTime": {
+                "seconds": 2323,
+                "nanos": 897777777.7781739
+              },
+              "word": "things"
+            },
+            {
+              "startTime": {
+                "seconds": 2323,
+                "nanos": 897777777.7781739
+              },
+              "endTime": {
+                "seconds": 2324,
+                "nanos": 213888888.88941437
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2324,
+                "nanos": 213888888.88895962
+              },
+              "endTime": {
+                "seconds": 2324,
+                "nanos": 530000000.0002001
+              },
+              "word": "that."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I'd really have to like mentale, prepare myself for it.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2324,
+                "nanos": 530000000.0002001
+              },
+              "endTime": {
+                "seconds": 2324,
+                "nanos": 926000000.0003856
+              },
+              "word": "I'd"
+            },
+            {
+              "startTime": {
+                "seconds": 2324,
+                "nanos": 926000000.0003856
+              },
+              "endTime": {
+                "seconds": 2325,
+                "nanos": 322000000.0005712
+              },
+              "word": "really"
+            },
+            {
+              "startTime": {
+                "seconds": 2325,
+                "nanos": 322000000.0001164
+              },
+              "endTime": {
+                "seconds": 2325,
+                "nanos": 718000000.000302
+              },
+              "word": "have"
+            },
+            {
+              "startTime": {
+                "seconds": 2325,
+                "nanos": 718000000.000302
+              },
+              "endTime": {
+                "seconds": 2326,
+                "nanos": 114000000.00048749
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2326,
+                "nanos": 114000000.00003274
+              },
+              "endTime": {
+                "seconds": 2326,
+                "nanos": 510000000.0002183
+              },
+              "word": "like"
+            },
+            {
+              "startTime": {
+                "seconds": 2326,
+                "nanos": 510000000.0002183
+              },
+              "endTime": {
+                "seconds": 2326,
+                "nanos": 906000000.0004038
+              },
+              "word": "mentale,"
+            },
+            {
+              "startTime": {
+                "seconds": 2326,
+                "nanos": 906000000.0004038
+              },
+              "endTime": {
+                "seconds": 2327,
+                "nanos": 302000000.0005894
+              },
+              "word": "prepare"
+            },
+            {
+              "startTime": {
+                "seconds": 2327,
+                "nanos": 302000000.0001346
+              },
+              "endTime": {
+                "seconds": 2327,
+                "nanos": 698000000.0003202
+              },
+              "word": "myself"
+            },
+            {
+              "startTime": {
+                "seconds": 2327,
+                "nanos": 698000000.0003202
+              },
+              "endTime": {
+                "seconds": 2328,
+                "nanos": 94000000.00050569
+              },
+              "word": "for"
+            },
+            {
+              "startTime": {
+                "seconds": 2328,
+                "nanos": 94000000.00005093
+              },
+              "endTime": {
+                "seconds": 2328,
+                "nanos": 490000000.00023645
+              },
+              "word": "it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Hello, welcome in how are you guys today?",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2328,
+                "nanos": 510000000.0002183
+              },
+              "endTime": {
+                "seconds": 2328,
+                "nanos": 963750000.0003456
+              },
+              "word": "Hello,"
+            },
+            {
+              "startTime": {
+                "seconds": 2328,
+                "nanos": 963750000.0003456
+              },
+              "endTime": {
+                "seconds": 2329,
+                "nanos": 417500000.00047296
+              },
+              "word": "welcome"
+            },
+            {
+              "startTime": {
+                "seconds": 2329,
+                "nanos": 417500000.0000182
+              },
+              "endTime": {
+                "seconds": 2329,
+                "nanos": 871250000.0001456
+              },
+              "word": "in"
+            },
+            {
+              "startTime": {
+                "seconds": 2329,
+                "nanos": 871250000.0001456
+              },
+              "endTime": {
+                "seconds": 2330,
+                "nanos": 325000000.00027287
+              },
+              "word": "how"
+            },
+            {
+              "startTime": {
+                "seconds": 2330,
+                "nanos": 324999999.9998181
+              },
+              "endTime": {
+                "seconds": 2330,
+                "nanos": 778749999.9999454
+              },
+              "word": "are"
+            },
+            {
+              "startTime": {
+                "seconds": 2330,
+                "nanos": 778749999.9999454
+              },
+              "endTime": {
+                "seconds": 2331,
+                "nanos": 232500000.00007275
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2331,
+                "nanos": 232500000.00007275
+              },
+              "endTime": {
+                "seconds": 2331,
+                "nanos": 686250000.0002
+              },
+              "word": "guys"
+            },
+            {
+              "startTime": {
+                "seconds": 2331,
+                "nanos": 686249999.9997454
+              },
+              "endTime": {
+                "seconds": 2332,
+                "nanos": 139999999.99987268
+              },
+              "word": "today?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I am working on a As you can see in my navigator here we zoom in.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2332,
+                "nanos": 869999999.9998908
+              },
+              "endTime": {
+                "seconds": 2333,
+                "nanos": 243124999.9999636
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2333,
+                "nanos": 243124999.9999636
+              },
+              "endTime": {
+                "seconds": 2333,
+                "nanos": 616250000.0000364
+              },
+              "word": "am"
+            },
+            {
+              "startTime": {
+                "seconds": 2333,
+                "nanos": 616250000.0000364
+              },
+              "endTime": {
+                "seconds": 2333,
+                "nanos": 989375000.0001092
+              },
+              "word": "working"
+            },
+            {
+              "startTime": {
+                "seconds": 2333,
+                "nanos": 989374999.9996544
+              },
+              "endTime": {
+                "seconds": 2334,
+                "nanos": 362499999.99972713
+              },
+              "word": "on"
+            },
+            {
+              "startTime": {
+                "seconds": 2334,
+                "nanos": 362499999.99972713
+              },
+              "endTime": {
+                "seconds": 2334,
+                "nanos": 735624999.9998
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2334,
+                "nanos": 735624999.9998
+              },
+              "endTime": {
+                "seconds": 2335,
+                "nanos": 108749999.99987267
+              },
+              "word": "As"
+            },
+            {
+              "startTime": {
+                "seconds": 2335,
+                "nanos": 108749999.99987267
+              },
+              "endTime": {
+                "seconds": 2335,
+                "nanos": 481874999.9999454
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2335,
+                "nanos": 481874999.9999454
+              },
+              "endTime": {
+                "seconds": 2335,
+                "nanos": 855000000.0000182
+              },
+              "word": "can"
+            },
+            {
+              "startTime": {
+                "seconds": 2335,
+                "nanos": 854999999.9995635
+              },
+              "endTime": {
+                "seconds": 2336,
+                "nanos": 228124999.9996362
+              },
+              "word": "see"
+            },
+            {
+              "startTime": {
+                "seconds": 2336,
+                "nanos": 228124999.9996362
+              },
+              "endTime": {
+                "seconds": 2336,
+                "nanos": 601249999.999709
+              },
+              "word": "in"
+            },
+            {
+              "startTime": {
+                "seconds": 2336,
+                "nanos": 601249999.999709
+              },
+              "endTime": {
+                "seconds": 2336,
+                "nanos": 974374999.9997817
+              },
+              "word": "my"
+            },
+            {
+              "startTime": {
+                "seconds": 2336,
+                "nanos": 974374999.9997817
+              },
+              "endTime": {
+                "seconds": 2337,
+                "nanos": 347499999.9998545
+              },
+              "word": "navigator"
+            },
+            {
+              "startTime": {
+                "seconds": 2337,
+                "nanos": 347499999.9998545
+              },
+              "endTime": {
+                "seconds": 2337,
+                "nanos": 720624999.9999273
+              },
+              "word": "here"
+            },
+            {
+              "startTime": {
+                "seconds": 2337,
+                "nanos": 720624999.9999273
+              },
+              "endTime": {
+                "seconds": 2338,
+                "nanos": 93750000.0
+              },
+              "word": "we"
+            },
+            {
+              "startTime": {
+                "seconds": 2338,
+                "nanos": 93749999.99954525
+              },
+              "endTime": {
+                "seconds": 2338,
+                "nanos": 466874999.999618
+              },
+              "word": "zoom"
+            },
+            {
+              "startTime": {
+                "seconds": 2338,
+                "nanos": 466874999.999618
+              },
+              "endTime": {
+                "seconds": 2338,
+                "nanos": 839999999.9996908
+              },
+              "word": "in."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I'm working on a schedule because I need to get better at sticking to a schedule.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2339,
+                "nanos": 99999999.99990904
+              },
+              "endTime": {
+                "seconds": 2339,
+                "nanos": 461249999.99983627
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2339,
+                "nanos": 461249999.99983627
+              },
+              "endTime": {
+                "seconds": 2339,
+                "nanos": 822499999.9997635
+              },
+              "word": "working"
+            },
+            {
+              "startTime": {
+                "seconds": 2339,
+                "nanos": 822499999.9997635
+              },
+              "endTime": {
+                "seconds": 2340,
+                "nanos": 183749999.99969077
+              },
+              "word": "on"
+            },
+            {
+              "startTime": {
+                "seconds": 2340,
+                "nanos": 183749999.99969077
+              },
+              "endTime": {
+                "seconds": 2340,
+                "nanos": 544999999.999618
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2340,
+                "nanos": 545000000.0000727
+              },
+              "endTime": {
+                "seconds": 2340,
+                "nanos": 906250000.0
+              },
+              "word": "schedule"
+            },
+            {
+              "startTime": {
+                "seconds": 2340,
+                "nanos": 906250000.0
+              },
+              "endTime": {
+                "seconds": 2341,
+                "nanos": 267499999.99992725
+              },
+              "word": "because"
+            },
+            {
+              "startTime": {
+                "seconds": 2341,
+                "nanos": 267499999.99992725
+              },
+              "endTime": {
+                "seconds": 2341,
+                "nanos": 628749999.9998544
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2341,
+                "nanos": 628749999.9998544
+              },
+              "endTime": {
+                "seconds": 2341,
+                "nanos": 989999999.9997817
+              },
+              "word": "need"
+            },
+            {
+              "startTime": {
+                "seconds": 2341,
+                "nanos": 989999999.9997817
+              },
+              "endTime": {
+                "seconds": 2342,
+                "nanos": 351249999.99970895
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2342,
+                "nanos": 351249999.99970895
+              },
+              "endTime": {
+                "seconds": 2342,
+                "nanos": 712499999.9996362
+              },
+              "word": "get"
+            },
+            {
+              "startTime": {
+                "seconds": 2342,
+                "nanos": 712499999.9996362
+              },
+              "endTime": {
+                "seconds": 2343,
+                "nanos": 73749999.99956344
+              },
+              "word": "better"
+            },
+            {
+              "startTime": {
+                "seconds": 2343,
+                "nanos": 73749999.99956344
+              },
+              "endTime": {
+                "seconds": 2343,
+                "nanos": 434999999.9994907
+              },
+              "word": "at"
+            },
+            {
+              "startTime": {
+                "seconds": 2343,
+                "nanos": 434999999.9994907
+              },
+              "endTime": {
+                "seconds": 2343,
+                "nanos": 796249999.9994179
+              },
+              "word": "sticking"
+            },
+            {
+              "startTime": {
+                "seconds": 2343,
+                "nanos": 796249999.9998727
+              },
+              "endTime": {
+                "seconds": 2344,
+                "nanos": 157499999.9997999
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2344,
+                "nanos": 157499999.9997999
+              },
+              "endTime": {
+                "seconds": 2344,
+                "nanos": 518749999.99972713
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2344,
+                "nanos": 518749999.99972713
+              },
+              "endTime": {
+                "seconds": 2344,
+                "nanos": 879999999.9996544
+              },
+              "word": "schedule."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "So.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2347,
+                "nanos": 210000000.0000364
+              },
+              "endTime": {
+                "seconds": 2344,
+                "nanos": 879999999.9996544
+              },
+              "word": "So."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "And trying to.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2348,
+                "nanos": 840000000.0001456
+              },
+              "endTime": {
+                "seconds": 2349,
+                "nanos": 256666666.6666606
+              },
+              "word": "And"
+            },
+            {
+              "startTime": {
+                "seconds": 2349,
+                "nanos": 256666666.6666606
+              },
+              "endTime": {
+                "seconds": 2349,
+                "nanos": 673333333.3331757
+              },
+              "word": "trying"
+            },
+            {
+              "startTime": {
+                "seconds": 2349,
+                "nanos": 673333333.3336304
+              },
+              "endTime": {
+                "seconds": 2350,
+                "nanos": 90000000.00014552
+              },
+              "word": "to."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Make myself more, how come on can I see it up?",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2351,
+                "nanos": 10000000.00021828
+              },
+              "endTime": {
+                "seconds": 2351,
+                "nanos": 291818181.8181438
+              },
+              "word": "Make"
+            },
+            {
+              "startTime": {
+                "seconds": 2351,
+                "nanos": 291818181.8181438
+              },
+              "endTime": {
+                "seconds": 2351,
+                "nanos": 573636363.6360693
+              },
+              "word": "myself"
+            },
+            {
+              "startTime": {
+                "seconds": 2351,
+                "nanos": 573636363.6365241
+              },
+              "endTime": {
+                "seconds": 2351,
+                "nanos": 855454545.4544495
+              },
+              "word": "more,"
+            },
+            {
+              "startTime": {
+                "seconds": 2351,
+                "nanos": 855454545.4544495
+              },
+              "endTime": {
+                "seconds": 2352,
+                "nanos": 137272727.27237505
+              },
+              "word": "how"
+            },
+            {
+              "startTime": {
+                "seconds": 2352,
+                "nanos": 137272727.2728298
+              },
+              "endTime": {
+                "seconds": 2352,
+                "nanos": 419090909.0907553
+              },
+              "word": "come"
+            },
+            {
+              "startTime": {
+                "seconds": 2352,
+                "nanos": 419090909.0907553
+              },
+              "endTime": {
+                "seconds": 2352,
+                "nanos": 700909090.9086808
+              },
+              "word": "on"
+            },
+            {
+              "startTime": {
+                "seconds": 2352,
+                "nanos": 700909090.9091356
+              },
+              "endTime": {
+                "seconds": 2352,
+                "nanos": 982727272.727061
+              },
+              "word": "can"
+            },
+            {
+              "startTime": {
+                "seconds": 2352,
+                "nanos": 982727272.727061
+              },
+              "endTime": {
+                "seconds": 2353,
+                "nanos": 264545454.54498658
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2353,
+                "nanos": 264545454.54544133
+              },
+              "endTime": {
+                "seconds": 2353,
+                "nanos": 546363636.3633668
+              },
+              "word": "see"
+            },
+            {
+              "startTime": {
+                "seconds": 2353,
+                "nanos": 546363636.3633668
+              },
+              "endTime": {
+                "seconds": 2353,
+                "nanos": 828181818.1812923
+              },
+              "word": "it"
+            },
+            {
+              "startTime": {
+                "seconds": 2353,
+                "nanos": 828181818.1817471
+              },
+              "endTime": {
+                "seconds": 2354,
+                "nanos": 109999999.99967258
+              },
+              "word": "up?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I guess personal bit more.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2355,
+                "nanos": 210000000.0000364
+              },
+              "endTime": {
+                "seconds": 2355,
+                "nanos": 534000000.0001055
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2355,
+                "nanos": 534000000.0001055
+              },
+              "endTime": {
+                "seconds": 2355,
+                "nanos": 858000000.0001746
+              },
+              "word": "guess"
+            },
+            {
+              "startTime": {
+                "seconds": 2355,
+                "nanos": 858000000.0001746
+              },
+              "endTime": {
+                "seconds": 2356,
+                "nanos": 182000000.00024375
+              },
+              "word": "personal"
+            },
+            {
+              "startTime": {
+                "seconds": 2356,
+                "nanos": 181999999.999789
+              },
+              "endTime": {
+                "seconds": 2356,
+                "nanos": 505999999.99985814
+              },
+              "word": "bit"
+            },
+            {
+              "startTime": {
+                "seconds": 2356,
+                "nanos": 505999999.99985814
+              },
+              "endTime": {
+                "seconds": 2356,
+                "nanos": 829999999.9999273
+              },
+              "word": "more."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I need to hold myself accountable to the decisions that I make and trust in the decisions that I make, but that is what I am doing today.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2358,
+                "nanos": 320000000.00016373
+              },
+              "endTime": {
+                "seconds": 2358,
+                "nanos": 667142857.1430625
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2358,
+                "nanos": 667142857.1430625
+              },
+              "endTime": {
+                "seconds": 2359,
+                "nanos": 14285714.28596115
+              },
+              "word": "need"
+            },
+            {
+              "startTime": {
+                "seconds": 2359,
+                "nanos": 14285714.28596115
+              },
+              "endTime": {
+                "seconds": 2359,
+                "nanos": 361428571.4288599
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2359,
+                "nanos": 361428571.4288599
+              },
+              "endTime": {
+                "seconds": 2359,
+                "nanos": 708571428.5717586
+              },
+              "word": "hold"
+            },
+            {
+              "startTime": {
+                "seconds": 2359,
+                "nanos": 708571428.5717586
+              },
+              "endTime": {
+                "seconds": 2360,
+                "nanos": 55714285.71465731
+              },
+              "word": "myself"
+            },
+            {
+              "startTime": {
+                "seconds": 2360,
+                "nanos": 55714285.71420256
+              },
+              "endTime": {
+                "seconds": 2360,
+                "nanos": 402857142.85710126
+              },
+              "word": "accountable"
+            },
+            {
+              "startTime": {
+                "seconds": 2360,
+                "nanos": 402857142.85710126
+              },
+              "endTime": {
+                "seconds": 2360,
+                "nanos": 750000000.0
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2360,
+                "nanos": 750000000.0
+              },
+              "endTime": {
+                "seconds": 2361,
+                "nanos": 97142857.14289872
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2361,
+                "nanos": 97142857.14289872
+              },
+              "endTime": {
+                "seconds": 2361,
+                "nanos": 444285714.2857974
+              },
+              "word": "decisions"
+            },
+            {
+              "startTime": {
+                "seconds": 2361,
+                "nanos": 444285714.2857974
+              },
+              "endTime": {
+                "seconds": 2361,
+                "nanos": 791428571.4286962
+              },
+              "word": "that"
+            },
+            {
+              "startTime": {
+                "seconds": 2361,
+                "nanos": 791428571.4286962
+              },
+              "endTime": {
+                "seconds": 2362,
+                "nanos": 138571428.5715949
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2362,
+                "nanos": 138571428.5715949
+              },
+              "endTime": {
+                "seconds": 2362,
+                "nanos": 485714285.7144936
+              },
+              "word": "make"
+            },
+            {
+              "startTime": {
+                "seconds": 2362,
+                "nanos": 485714285.7144936
+              },
+              "endTime": {
+                "seconds": 2362,
+                "nanos": 832857142.8573923
+              },
+              "word": "and"
+            },
+            {
+              "startTime": {
+                "seconds": 2362,
+                "nanos": 832857142.8573923
+              },
+              "endTime": {
+                "seconds": 2363,
+                "nanos": 180000000.00029105
+              },
+              "word": "trust"
+            },
+            {
+              "startTime": {
+                "seconds": 2363,
+                "nanos": 180000000.00029105
+              },
+              "endTime": {
+                "seconds": 2363,
+                "nanos": 527142857.1431898
+              },
+              "word": "in"
+            },
+            {
+              "startTime": {
+                "seconds": 2363,
+                "nanos": 527142857.142735
+              },
+              "endTime": {
+                "seconds": 2363,
+                "nanos": 874285714.2856337
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2363,
+                "nanos": 874285714.2856337
+              },
+              "endTime": {
+                "seconds": 2364,
+                "nanos": 221428571.42853245
+              },
+              "word": "decisions"
+            },
+            {
+              "startTime": {
+                "seconds": 2364,
+                "nanos": 221428571.42853245
+              },
+              "endTime": {
+                "seconds": 2364,
+                "nanos": 568571428.5714312
+              },
+              "word": "that"
+            },
+            {
+              "startTime": {
+                "seconds": 2364,
+                "nanos": 568571428.5714312
+              },
+              "endTime": {
+                "seconds": 2364,
+                "nanos": 915714285.7143298
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2364,
+                "nanos": 915714285.7143298
+              },
+              "endTime": {
+                "seconds": 2365,
+                "nanos": 262857142.8572286
+              },
+              "word": "make,"
+            },
+            {
+              "startTime": {
+                "seconds": 2365,
+                "nanos": 262857142.8572286
+              },
+              "endTime": {
+                "seconds": 2365,
+                "nanos": 610000000.0001273
+              },
+              "word": "but"
+            },
+            {
+              "startTime": {
+                "seconds": 2365,
+                "nanos": 610000000.0001273
+              },
+              "endTime": {
+                "seconds": 2365,
+                "nanos": 957142857.143026
+              },
+              "word": "that"
+            },
+            {
+              "startTime": {
+                "seconds": 2365,
+                "nanos": 957142857.143026
+              },
+              "endTime": {
+                "seconds": 2366,
+                "nanos": 304285714.2859248
+              },
+              "word": "is"
+            },
+            {
+              "startTime": {
+                "seconds": 2366,
+                "nanos": 304285714.2859248
+              },
+              "endTime": {
+                "seconds": 2366,
+                "nanos": 651428571.4288235
+              },
+              "word": "what"
+            },
+            {
+              "startTime": {
+                "seconds": 2366,
+                "nanos": 651428571.4283687
+              },
+              "endTime": {
+                "seconds": 2366,
+                "nanos": 998571428.5712675
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2366,
+                "nanos": 998571428.5712675
+              },
+              "endTime": {
+                "seconds": 2367,
+                "nanos": 345714285.71416616
+              },
+              "word": "am"
+            },
+            {
+              "startTime": {
+                "seconds": 2367,
+                "nanos": 345714285.71416616
+              },
+              "endTime": {
+                "seconds": 2367,
+                "nanos": 692857142.8570648
+              },
+              "word": "doing"
+            },
+            {
+              "startTime": {
+                "seconds": 2367,
+                "nanos": 692857142.8570648
+              },
+              "endTime": {
+                "seconds": 2368,
+                "nanos": 39999999.99996362
+              },
+              "word": "today."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "An I'm currently trying to draw my little slime girl character here that you see me clicking over to this gorgeous cute little pink.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2368,
+                "nanos": 829999999.9999273
+              },
+              "endTime": {
+                "seconds": 2369,
+                "nanos": 212083333.3333394
+              },
+              "word": "An"
+            },
+            {
+              "startTime": {
+                "seconds": 2369,
+                "nanos": 212083333.3333394
+              },
+              "endTime": {
+                "seconds": 2369,
+                "nanos": 594166666.6667515
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2369,
+                "nanos": 594166666.6667515
+              },
+              "endTime": {
+                "seconds": 2369,
+                "nanos": 976250000.0001637
+              },
+              "word": "currently"
+            },
+            {
+              "startTime": {
+                "seconds": 2369,
+                "nanos": 976249999.999709
+              },
+              "endTime": {
+                "seconds": 2370,
+                "nanos": 358333333.3331211
+              },
+              "word": "trying"
+            },
+            {
+              "startTime": {
+                "seconds": 2370,
+                "nanos": 358333333.3331211
+              },
+              "endTime": {
+                "seconds": 2370,
+                "nanos": 740416666.6665332
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2370,
+                "nanos": 740416666.6665332
+              },
+              "endTime": {
+                "seconds": 2371,
+                "nanos": 122499999.99994543
+              },
+              "word": "draw"
+            },
+            {
+              "startTime": {
+                "seconds": 2371,
+                "nanos": 122499999.99994543
+              },
+              "endTime": {
+                "seconds": 2371,
+                "nanos": 504583333.3333576
+              },
+              "word": "my"
+            },
+            {
+              "startTime": {
+                "seconds": 2371,
+                "nanos": 504583333.3333576
+              },
+              "endTime": {
+                "seconds": 2371,
+                "nanos": 886666666.6667697
+              },
+              "word": "little"
+            },
+            {
+              "startTime": {
+                "seconds": 2371,
+                "nanos": 886666666.6667697
+              },
+              "endTime": {
+                "seconds": 2372,
+                "nanos": 268750000.0001819
+              },
+              "word": "slime"
+            },
+            {
+              "startTime": {
+                "seconds": 2372,
+                "nanos": 268750000.0001819
+              },
+              "endTime": {
+                "seconds": 2372,
+                "nanos": 650833333.3335941
+              },
+              "word": "girl"
+            },
+            {
+              "startTime": {
+                "seconds": 2372,
+                "nanos": 650833333.3331393
+              },
+              "endTime": {
+                "seconds": 2373,
+                "nanos": 32916666.666551463
+              },
+              "word": "character"
+            },
+            {
+              "startTime": {
+                "seconds": 2373,
+                "nanos": 32916666.666551463
+              },
+              "endTime": {
+                "seconds": 2373,
+                "nanos": 414999999.99996364
+              },
+              "word": "here"
+            },
+            {
+              "startTime": {
+                "seconds": 2373,
+                "nanos": 414999999.99996364
+              },
+              "endTime": {
+                "seconds": 2373,
+                "nanos": 797083333.3333758
+              },
+              "word": "that"
+            },
+            {
+              "startTime": {
+                "seconds": 2373,
+                "nanos": 797083333.3333758
+              },
+              "endTime": {
+                "seconds": 2374,
+                "nanos": 179166666.66678792
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2374,
+                "nanos": 179166666.66678792
+              },
+              "endTime": {
+                "seconds": 2374,
+                "nanos": 561250000.0002
+              },
+              "word": "see"
+            },
+            {
+              "startTime": {
+                "seconds": 2374,
+                "nanos": 561249999.9997454
+              },
+              "endTime": {
+                "seconds": 2374,
+                "nanos": 943333333.3331575
+              },
+              "word": "me"
+            },
+            {
+              "startTime": {
+                "seconds": 2374,
+                "nanos": 943333333.3331575
+              },
+              "endTime": {
+                "seconds": 2375,
+                "nanos": 325416666.66656965
+              },
+              "word": "clicking"
+            },
+            {
+              "startTime": {
+                "seconds": 2375,
+                "nanos": 325416666.66656965
+              },
+              "endTime": {
+                "seconds": 2375,
+                "nanos": 707499999.9999818
+              },
+              "word": "over"
+            },
+            {
+              "startTime": {
+                "seconds": 2375,
+                "nanos": 707499999.9999818
+              },
+              "endTime": {
+                "seconds": 2376,
+                "nanos": 89583333.33339396
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2376,
+                "nanos": 89583333.33339396
+              },
+              "endTime": {
+                "seconds": 2376,
+                "nanos": 471666666.6668061
+              },
+              "word": "this"
+            },
+            {
+              "startTime": {
+                "seconds": 2376,
+                "nanos": 471666666.6668061
+              },
+              "endTime": {
+                "seconds": 2376,
+                "nanos": 853750000.0002183
+              },
+              "word": "gorgeous"
+            },
+            {
+              "startTime": {
+                "seconds": 2376,
+                "nanos": 853750000.0002183
+              },
+              "endTime": {
+                "seconds": 2377,
+                "nanos": 235833333.33363044
+              },
+              "word": "cute"
+            },
+            {
+              "startTime": {
+                "seconds": 2377,
+                "nanos": 235833333.3331757
+              },
+              "endTime": {
+                "seconds": 2377,
+                "nanos": 617916666.6665878
+              },
+              "word": "little"
+            },
+            {
+              "startTime": {
+                "seconds": 2377,
+                "nanos": 617916666.6665878
+              },
+              "endTime": {
+                "seconds": 2378,
+                "nanos": 0.0
+              },
+              "word": "pink."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Been no, I don't love the color pink at all.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2378,
+                "nanos": 0.0
+              },
+              "endTime": {
+                "seconds": 2378,
+                "nanos": 414999999.99996364
+              },
+              "word": "Been"
+            },
+            {
+              "startTime": {
+                "seconds": 2378,
+                "nanos": 414999999.99996364
+              },
+              "endTime": {
+                "seconds": 2378,
+                "nanos": 829999999.9999273
+              },
+              "word": "no,"
+            },
+            {
+              "startTime": {
+                "seconds": 2378,
+                "nanos": 829999999.9999273
+              },
+              "endTime": {
+                "seconds": 2379,
+                "nanos": 244999999.99989086
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2379,
+                "nanos": 244999999.99989086
+              },
+              "endTime": {
+                "seconds": 2379,
+                "nanos": 659999999.9998544
+              },
+              "word": "don't"
+            },
+            {
+              "startTime": {
+                "seconds": 2379,
+                "nanos": 659999999.9998544
+              },
+              "endTime": {
+                "seconds": 2380,
+                "nanos": 74999999.9998181
+              },
+              "word": "love"
+            },
+            {
+              "startTime": {
+                "seconds": 2380,
+                "nanos": 74999999.9998181
+              },
+              "endTime": {
+                "seconds": 2380,
+                "nanos": 489999999.9997817
+              },
+              "word": "the"
+            },
+            {
+              "startTime": {
+                "seconds": 2380,
+                "nanos": 490000000.00023645
+              },
+              "endTime": {
+                "seconds": 2380,
+                "nanos": 905000000.0002
+              },
+              "word": "color"
+            },
+            {
+              "startTime": {
+                "seconds": 2380,
+                "nanos": 905000000.0002
+              },
+              "endTime": {
+                "seconds": 2381,
+                "nanos": 320000000.00016373
+              },
+              "word": "pink"
+            },
+            {
+              "startTime": {
+                "seconds": 2381,
+                "nanos": 320000000.00016373
+              },
+              "endTime": {
+                "seconds": 2381,
+                "nanos": 735000000.0001273
+              },
+              "word": "at"
+            },
+            {
+              "startTime": {
+                "seconds": 2381,
+                "nanos": 735000000.0001273
+              },
+              "endTime": {
+                "seconds": 2382,
+                "nanos": 150000000.00009096
+              },
+              "word": "all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I do, I'm sorry I'm a very pink person.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2388,
+                "nanos": 780000000.0002
+              },
+              "endTime": {
+                "seconds": 2389,
+                "nanos": 28888888.889014196
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2389,
+                "nanos": 28888888.889014196
+              },
+              "endTime": {
+                "seconds": 2389,
+                "nanos": 277777777.7778283
+              },
+              "word": "do,"
+            },
+            {
+              "startTime": {
+                "seconds": 2389,
+                "nanos": 277777777.7778283
+              },
+              "endTime": {
+                "seconds": 2389,
+                "nanos": 526666666.6666424
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2389,
+                "nanos": 526666666.6666424
+              },
+              "endTime": {
+                "seconds": 2389,
+                "nanos": 775555555.5554565
+              },
+              "word": "sorry"
+            },
+            {
+              "startTime": {
+                "seconds": 2389,
+                "nanos": 775555555.5554565
+              },
+              "endTime": {
+                "seconds": 2390,
+                "nanos": 24444444.44427063
+              },
+              "word": "I'm"
+            },
+            {
+              "startTime": {
+                "seconds": 2390,
+                "nanos": 24444444.444725376
+              },
+              "endTime": {
+                "seconds": 2390,
+                "nanos": 273333333.3335395
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2390,
+                "nanos": 273333333.3335395
+              },
+              "endTime": {
+                "seconds": 2390,
+                "nanos": 522222222.2223536
+              },
+              "word": "very"
+            },
+            {
+              "startTime": {
+                "seconds": 2390,
+                "nanos": 522222222.2223536
+              },
+              "endTime": {
+                "seconds": 2390,
+                "nanos": 771111111.1111677
+              },
+              "word": "pink"
+            },
+            {
+              "startTime": {
+                "seconds": 2390,
+                "nanos": 771111111.1111677
+              },
+              "endTime": {
+                "seconds": 2391,
+                "nanos": 19999999.99998181
+              },
+              "word": "person."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "I will always be a pink person.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2391,
+                "nanos": 519999999.9999818
+              },
+              "endTime": {
+                "seconds": 2391,
+                "nanos": 757142857.1427532
+              },
+              "word": "I"
+            },
+            {
+              "startTime": {
+                "seconds": 2391,
+                "nanos": 757142857.1427532
+              },
+              "endTime": {
+                "seconds": 2391,
+                "nanos": 994285714.2855246
+              },
+              "word": "will"
+            },
+            {
+              "startTime": {
+                "seconds": 2391,
+                "nanos": 994285714.2855246
+              },
+              "endTime": {
+                "seconds": 2392,
+                "nanos": 231428571.42829597
+              },
+              "word": "always"
+            },
+            {
+              "startTime": {
+                "seconds": 2392,
+                "nanos": 231428571.42829597
+              },
+              "endTime": {
+                "seconds": 2392,
+                "nanos": 468571428.5710674
+              },
+              "word": "be"
+            },
+            {
+              "startTime": {
+                "seconds": 2392,
+                "nanos": 468571428.5715221
+              },
+              "endTime": {
+                "seconds": 2392,
+                "nanos": 705714285.7142935
+              },
+              "word": "a"
+            },
+            {
+              "startTime": {
+                "seconds": 2392,
+                "nanos": 705714285.7142935
+              },
+              "endTime": {
+                "seconds": 2392,
+                "nanos": 942857142.8570648
+              },
+              "word": "pink"
+            },
+            {
+              "startTime": {
+                "seconds": 2392,
+                "nanos": 942857142.8570648
+              },
+              "endTime": {
+                "seconds": 2393,
+                "nanos": 179999999.9998363
+              },
+              "word": "person."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "Unfortunately or Fortunately, you know whatever whatever you decide to hold it by.",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2394,
+                "nanos": 380000000.00010914
+              },
+              "endTime": {
+                "seconds": 2394,
+                "nanos": 789230769.2309259
+              },
+              "word": "Unfortunately"
+            },
+            {
+              "startTime": {
+                "seconds": 2394,
+                "nanos": 789230769.2309259
+              },
+              "endTime": {
+                "seconds": 2395,
+                "nanos": 198461538.46174276
+              },
+              "word": "or"
+            },
+            {
+              "startTime": {
+                "seconds": 2395,
+                "nanos": 198461538.46174276
+              },
+              "endTime": {
+                "seconds": 2395,
+                "nanos": 607692307.6925596
+              },
+              "word": "Fortunately,"
+            },
+            {
+              "startTime": {
+                "seconds": 2395,
+                "nanos": 607692307.6925596
+              },
+              "endTime": {
+                "seconds": 2396,
+                "nanos": 16923076.923376355
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2396,
+                "nanos": 16923076.92292161
+              },
+              "endTime": {
+                "seconds": 2396,
+                "nanos": 426153846.15373844
+              },
+              "word": "know"
+            },
+            {
+              "startTime": {
+                "seconds": 2396,
+                "nanos": 426153846.15373844
+              },
+              "endTime": {
+                "seconds": 2396,
+                "nanos": 835384615.3845552
+              },
+              "word": "whatever"
+            },
+            {
+              "startTime": {
+                "seconds": 2396,
+                "nanos": 835384615.3845552
+              },
+              "endTime": {
+                "seconds": 2397,
+                "nanos": 244615384.61537203
+              },
+              "word": "whatever"
+            },
+            {
+              "startTime": {
+                "seconds": 2397,
+                "nanos": 244615384.61537203
+              },
+              "endTime": {
+                "seconds": 2397,
+                "nanos": 653846153.8461888
+              },
+              "word": "you"
+            },
+            {
+              "startTime": {
+                "seconds": 2397,
+                "nanos": 653846153.8461888
+              },
+              "endTime": {
+                "seconds": 2398,
+                "nanos": 63076923.07700563
+              },
+              "word": "decide"
+            },
+            {
+              "startTime": {
+                "seconds": 2398,
+                "nanos": 63076923.07700563
+              },
+              "endTime": {
+                "seconds": 2398,
+                "nanos": 472307692.3078224
+              },
+              "word": "to"
+            },
+            {
+              "startTime": {
+                "seconds": 2398,
+                "nanos": 472307692.3073677
+              },
+              "endTime": {
+                "seconds": 2398,
+                "nanos": 881538461.5381845
+              },
+              "word": "hold"
+            },
+            {
+              "startTime": {
+                "seconds": 2398,
+                "nanos": 881538461.5381845
+              },
+              "endTime": {
+                "seconds": 2399,
+                "nanos": 290769230.7690013
+              },
+              "word": "it"
+            },
+            {
+              "startTime": {
+                "seconds": 2399,
+                "nanos": 290769230.7690013
+              },
+              "endTime": {
+                "seconds": 2399,
+                "nanos": 699999999.9998181
+              },
+              "word": "by."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "languageCode": "en-us",
+      "alternatives": [
+        {
+          "transcript": "You know?",
+          "words": [
+            {
+              "startTime": {
+                "seconds": 2401,
+                "nanos": 239999999.99978173
+              },
+              "endTime": {
+                "seconds": 2401,
+                "nanos": 510000000.0002183
+              },
+              "word": "You"
+            },
+            {
+              "startTime": {
+                "seconds": 2401,
+                "nanos": 510000000.0002183
+              },
+              "endTime": {
+                "seconds": 2401,
+                "nanos": 780000000.0006548
+              },
+              "word": "know?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
